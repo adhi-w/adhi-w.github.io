@@ -103,15 +103,16 @@
               <p style="text-align:justify;">
                 This portfolio project focuses on the development of an IMU-based wearable motion capture device that can accurately track human movement. 
                 The device uses a 9-axis inertial measurement unit (IMU) containing an accelerometer, gyroscope, and magnetometer to estimate the orientation of the sensor output. 
-                The system is designed to be modular, with multiple IMU modules attached to the human body to reconstruct human attitude estimation.
-                The system is implemented using a quaternion-based approach and employs several methods to achieve better results, 
-                including a digital motion processor (DMP) for accurate data acquisition, a complementary filter (CF) fused with a gradient descent algorithm, and a Mahony filter combined with a CF. 
-                All approaches work with the DMP system to minimize the accumulative error.
+                The system is designed to be modular, with multiple IMU modules attached to the human body to reconstruct human attitude estimation.                
               </p>              
                 		
             </div>
           </div>		  
 				<p style="text-align:justify;">
+          The system is implemented using a quaternion-based approach and employs several methods to achieve better results, 
+          including a digital motion processor (DMP) for accurate data acquisition, a complementary filter (CF) fused with a gradient descent algorithm, and a Mahony filter combined with a CF. 
+          All approaches work with the DMP system to minimize the accumulative error.
+          <br><br>
           One of the challenges in using a serial communication protocol for an IMU-based wearable motion capture device is latency, which can result in inaccuracies in the tracking data. 
           To address this challenge, the proposed solution involves using a method of parallel communication using a 12-bit pin and a master-slave processor for each IMU module. 
           By using parallel communication, data can be transmitted more quickly and with less latency, resulting in more accurate tracking data. 
