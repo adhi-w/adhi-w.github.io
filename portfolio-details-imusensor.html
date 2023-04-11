@@ -100,8 +100,8 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <!-- <li><strong>Category</strong>: Web design</li> -->
-                <!-- <li><strong>Client</strong>: ASU Company</li> -->
+                <li><strong>Category</strong>: Master Thesis</li>
+                <li><strong>Funding</strong>: MRL-Taiwan Company</li>
                 <li><strong>Project date</strong>: 2015-2016</li>
                 <!-- <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li> -->
               </ul>
@@ -109,11 +109,23 @@
             <div class="portfolio-description">
               <h2>Accuracy of IMU Sensor</h2>
               <p style="text-align:justify;">
-              
+                In my portfolio project, I tackled the challenge of achieving high accuracy in motion tracking with an IMU-based wearable motion capture device. 
+                To do this, I developed a modular architecture that includes 13 IMU module devices attached to the human body to reconstruct the 3D trajectory of human movement. 
+                I implemented a quaternion-based approach and employed several methods to achieve accurate orientation estimation, 
+                including a digital motion processor for direct calculation of accurate data inside the sensor itself, a complementary filter fused using a gradient descent algorithm, 
+                and a combination of the complementary filter with a Mahony filter.                 
               </p>				
             </div>
           </div>		  
 				<p style="text-align:justify;">
+          All of these approaches were designed to work with a digital motion processor system to minimize accumulative error. 
+          I validated my results by comparing them with a passive manipulator robot containing encoders and found that all of the proposed methods achieved acceptable performances and accuracy for orientation, 
+          with the lowest root mean square error (RMSE) values being 0.75 degrees. 
+          Additionally, my IMU-based wearable motion capture system was able to reconstruct a human skeletal animation with an RMSE of 6.76 and 6.6 degrees for the shoulder and elbow, respectively, 
+          at a sampling rate of 24 frames per second. 
+          <br><br>
+          Overall, my project successfully addressed the challenge of achieving high accuracy in motion tracking with an IMU-based wearable motion capture device, 
+          paving the way for improved performance in various applications, including sports training, biomechanical analysis, and rehabilitation.
 				</p>
 
         </div>
