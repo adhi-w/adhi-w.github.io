@@ -1,0 +1,2467 @@
+{
+  "assets/img/portfolio/3d-scanner-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/3d-scanner-gui-thumb.webp",
+      "width": 144,
+      "height": 77
+    },
+    "card": {
+      "src": "assets/img/optimized/3d-scanner-gui-card.webp",
+      "width": 640,
+      "height": 344
+    },
+    "full": {
+      "src": "assets/img/optimized/3d-scanner-gui-full.webp",
+      "width": 1112,
+      "height": 597
+    }
+  },
+  "assets/img/portfolio/3d-scanner-init.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/3d-scanner-init-thumb.webp",
+      "width": 144,
+      "height": 60
+    },
+    "card": {
+      "src": "assets/img/optimized/3d-scanner-init-card.webp",
+      "width": 640,
+      "height": 268
+    },
+    "full": {
+      "src": "assets/img/optimized/3d-scanner-init-full.webp",
+      "width": 1312,
+      "height": 550
+    }
+  },
+  "assets/img/portfolio/3d-scanner-view.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/3d-scanner-view-thumb.webp",
+      "width": 144,
+      "height": 95
+    },
+    "card": {
+      "src": "assets/img/optimized/3d-scanner-view-card.webp",
+      "width": 640,
+      "height": 423
+    },
+    "full": {
+      "src": "assets/img/optimized/3d-scanner-view-full.webp",
+      "width": 1400,
+      "height": 925
+    }
+  },
+  "assets/img/portfolio/6g-flagship-3d-scanner.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/6g-flagship-3d-scanner-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/6g-flagship-3d-scanner-card.webp",
+      "width": 640,
+      "height": 427
+    },
+    "full": {
+      "src": "assets/img/optimized/6g-flagship-3d-scanner-full.webp",
+      "width": 1024,
+      "height": 683
+    }
+  },
+  "assets/img/portfolio/bikelift-design-bom1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/bikelift-design-bom1-thumb.webp",
+      "width": 144,
+      "height": 102
+    },
+    "card": {
+      "src": "assets/img/optimized/bikelift-design-bom1-card.webp",
+      "width": 640,
+      "height": 455
+    },
+    "full": {
+      "src": "assets/img/optimized/bikelift-design-bom1-full.webp",
+      "width": 1080,
+      "height": 768
+    }
+  },
+  "assets/img/portfolio/bikelift-design-bom2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/bikelift-design-bom2-thumb.webp",
+      "width": 144,
+      "height": 103
+    },
+    "card": {
+      "src": "assets/img/optimized/bikelift-design-bom2-card.webp",
+      "width": 640,
+      "height": 456
+    },
+    "full": {
+      "src": "assets/img/optimized/bikelift-design-bom2-full.webp",
+      "width": 1080,
+      "height": 769
+    }
+  },
+  "assets/img/portfolio/bikelift-design-bom3.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/bikelift-design-bom3-thumb.webp",
+      "width": 144,
+      "height": 103
+    },
+    "card": {
+      "src": "assets/img/optimized/bikelift-design-bom3-card.webp",
+      "width": 640,
+      "height": 456
+    },
+    "full": {
+      "src": "assets/img/optimized/bikelift-design-bom3-full.webp",
+      "width": 1080,
+      "height": 770
+    }
+  },
+  "assets/img/portfolio/bikelift-design1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/bikelift-design1-thumb.webp",
+      "width": 144,
+      "height": 133
+    },
+    "card": {
+      "src": "assets/img/optimized/bikelift-design1-card.webp",
+      "width": 640,
+      "height": 590
+    },
+    "full": {
+      "src": "assets/img/optimized/bikelift-design1-full.webp",
+      "width": 800,
+      "height": 738
+    }
+  },
+  "assets/img/portfolio/bikelift-design2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/bikelift-design2-thumb.webp",
+      "width": 144,
+      "height": 85
+    },
+    "card": {
+      "src": "assets/img/optimized/bikelift-design2-card.webp",
+      "width": 640,
+      "height": 376
+    },
+    "full": {
+      "src": "assets/img/optimized/bikelift-design2-full.webp",
+      "width": 1080,
+      "height": 634
+    }
+  },
+  "assets/img/portfolio/buddy-benchmark-oculusgo.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/buddy-benchmark-oculusgo-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/buddy-benchmark-oculusgo-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/buddy-benchmark-oculusgo-full.webp",
+      "width": 1200,
+      "height": 675
+    }
+  },
+  "assets/img/portfolio/buddy-demo.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/buddy-demo-thumb.webp",
+      "width": 108,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/buddy-demo-card.webp",
+      "width": 480,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/buddy-demo-full.webp",
+      "width": 810,
+      "height": 1080
+    }
+  },
+  "assets/img/portfolio/buddy-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/buddy-gui-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/buddy-gui-card.webp",
+      "width": 640,
+      "height": 481
+    },
+    "full": {
+      "src": "assets/img/optimized/buddy-gui-full.webp",
+      "width": 889,
+      "height": 668
+    }
+  },
+  "assets/img/portfolio/buddy-test-oculusgo.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/buddy-test-oculusgo-thumb.webp",
+      "width": 144,
+      "height": 68
+    },
+    "card": {
+      "src": "assets/img/optimized/buddy-test-oculusgo-card.webp",
+      "width": 640,
+      "height": 301
+    },
+    "full": {
+      "src": "assets/img/optimized/buddy-test-oculusgo-full.webp",
+      "width": 1200,
+      "height": 565
+    }
+  },
+  "assets/img/portfolio/cigarmachine-cigar-counter.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/cigarmachine-cigar-counter-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/cigarmachine-cigar-counter-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/cigarmachine-cigar-counter-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/cigarmachine-cigar-ejector.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/cigarmachine-cigar-ejector-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/cigarmachine-cigar-ejector-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/cigarmachine-cigar-ejector-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/cigarmachine-slitting-design1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design1-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design1-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design1-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/cigarmachine-slitting-design2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design2-thumb.webp",
+      "width": 144,
+      "height": 109
+    },
+    "card": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design2-card.webp",
+      "width": 640,
+      "height": 486
+    },
+    "full": {
+      "src": "assets/img/optimized/cigarmachine-slitting-design2-full.webp",
+      "width": 800,
+      "height": 608
+    }
+  },
+  "assets/img/portfolio/creative-design-eidcard.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/creative-design-eidcard-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/creative-design-eidcard-card.webp",
+      "width": 640,
+      "height": 427
+    },
+    "full": {
+      "src": "assets/img/optimized/creative-design-eidcard-full.webp",
+      "width": 1080,
+      "height": 720
+    }
+  },
+  "assets/img/portfolio/creative-design-pipespeaker.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/creative-design-pipespeaker-thumb.webp",
+      "width": 144,
+      "height": 110
+    },
+    "card": {
+      "src": "assets/img/optimized/creative-design-pipespeaker-card.webp",
+      "width": 640,
+      "height": 490
+    },
+    "full": {
+      "src": "assets/img/optimized/creative-design-pipespeaker-full.webp",
+      "width": 1080,
+      "height": 827
+    }
+  },
+  "assets/img/portfolio/flappybird-body.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/flappybird-body-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/flappybird-body-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/flappybird-body-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/flappybird-mechanism.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/flappybird-mechanism-thumb.webp",
+      "width": 144,
+      "height": 63
+    },
+    "card": {
+      "src": "assets/img/optimized/flappybird-mechanism-card.webp",
+      "width": 640,
+      "height": 279
+    },
+    "full": {
+      "src": "assets/img/optimized/flappybird-mechanism-full.webp",
+      "width": 1400,
+      "height": 610
+    }
+  },
+  "assets/img/portfolio/flappybird-origin.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/flappybird-origin-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/flappybird-origin-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/flappybird-origin-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/flappybird-sequence.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/flappybird-sequence-thumb.webp",
+      "width": 144,
+      "height": 99
+    },
+    "card": {
+      "src": "assets/img/optimized/flappybird-sequence-card.webp",
+      "width": 640,
+      "height": 441
+    },
+    "full": {
+      "src": "assets/img/optimized/flappybird-sequence-full.webp",
+      "width": 1080,
+      "height": 745
+    }
+  },
+  "assets/img/portfolio/flappybird-wings.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/flappybird-wings-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/flappybird-wings-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/flappybird-wings-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/humanoid-huroevolution.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-huroevolution-thumb.webp",
+      "width": 99,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-huroevolution-card.webp",
+      "width": 438,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-huroevolution-full.webp",
+      "width": 821,
+      "height": 1200
+    }
+  },
+  "assets/img/portfolio/humanoid-locomotion.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-locomotion-thumb.webp",
+      "width": 144,
+      "height": 94
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-locomotion-card.webp",
+      "width": 640,
+      "height": 418
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-locomotion-full.webp",
+      "width": 1400,
+      "height": 915
+    }
+  },
+  "assets/img/portfolio/humanoid-obstacle.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-obstacle-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-obstacle-card.webp",
+      "width": 640,
+      "height": 359
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-obstacle-full.webp",
+      "width": 1080,
+      "height": 606
+    }
+  },
+  "assets/img/portfolio/humanoid-soccer.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-soccer-thumb.webp",
+      "width": 144,
+      "height": 86
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-soccer-card.webp",
+      "width": 640,
+      "height": 384
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-soccer-full.webp",
+      "width": 800,
+      "height": 480
+    }
+  },
+  "assets/img/portfolio/humanoid-tuner-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-tuner-gui-thumb.webp",
+      "width": 144,
+      "height": 78
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-tuner-gui-card.webp",
+      "width": 640,
+      "height": 347
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-tuner-gui-full.webp",
+      "width": 1080,
+      "height": 586
+    }
+  },
+  "assets/img/portfolio/humanoid-twins.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/humanoid-twins-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/humanoid-twins-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/humanoid-twins-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/huro-mech-design-system.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-mech-design-system-thumb.webp",
+      "width": 144,
+      "height": 104
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-mech-design-system-card.webp",
+      "width": 640,
+      "height": 462
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-mech-design-system-full.webp",
+      "width": 1080,
+      "height": 779
+    }
+  },
+  "assets/img/portfolio/huro-mech-design.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-mech-design-thumb.webp",
+      "width": 144,
+      "height": 111
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-mech-design-card.webp",
+      "width": 640,
+      "height": 494
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-mech-design-full.webp",
+      "width": 1080,
+      "height": 833
+    }
+  },
+  "assets/img/portfolio/huro-mech-design_old.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-mech-design_old-thumb.webp",
+      "width": 144,
+      "height": 104
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-mech-design_old-card.webp",
+      "width": 640,
+      "height": 462
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-mech-design_old-full.webp",
+      "width": 1080,
+      "height": 780
+    }
+  },
+  "assets/img/portfolio/huro-mech-legs.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-mech-legs-thumb.webp",
+      "width": 144,
+      "height": 106
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-mech-legs-card.webp",
+      "width": 640,
+      "height": 469
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-mech-legs-full.webp",
+      "width": 1080,
+      "height": 792
+    }
+  },
+  "assets/img/portfolio/huro-mech-standing.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-mech-standing-thumb.webp",
+      "width": 86,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-mech-standing-card.webp",
+      "width": 384,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-mech-standing-full.webp",
+      "width": 720,
+      "height": 1200
+    }
+  },
+  "assets/img/portfolio/huro-vision-frontal-view.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-frontal-view-thumb.webp",
+      "width": 144,
+      "height": 107
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-frontal-view-card.webp",
+      "width": 640,
+      "height": 474
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-frontal-view-full.webp",
+      "width": 1080,
+      "height": 800
+    }
+  },
+  "assets/img/portfolio/huro-vision-i5comparison.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-i5comparison-thumb.webp",
+      "width": 144,
+      "height": 97
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-i5comparison-card.webp",
+      "width": 640,
+      "height": 432
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-i5comparison-full.webp",
+      "width": 1080,
+      "height": 729
+    }
+  },
+  "assets/img/portfolio/huro-vision-kalman.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-kalman-thumb.webp",
+      "width": 144,
+      "height": 84
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-kalman-card.webp",
+      "width": 640,
+      "height": 372
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-kalman-full.webp",
+      "width": 1080,
+      "height": 628
+    }
+  },
+  "assets/img/portfolio/huro-vision-lateral-view.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-lateral-view-thumb.webp",
+      "width": 144,
+      "height": 95
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-lateral-view-card.webp",
+      "width": 640,
+      "height": 422
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-lateral-view-full.webp",
+      "width": 1080,
+      "height": 712
+    }
+  },
+  "assets/img/portfolio/huro-vision-linearize-hs.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-linearize-hs-thumb.webp",
+      "width": 144,
+      "height": 105
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-linearize-hs-card.webp",
+      "width": 640,
+      "height": 465
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-linearize-hs-full.webp",
+      "width": 1080,
+      "height": 785
+    }
+  },
+  "assets/img/portfolio/huro-vision-robot-head.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-robot-head-thumb.webp",
+      "width": 144,
+      "height": 103
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-robot-head-card.webp",
+      "width": 640,
+      "height": 459
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-robot-head-full.webp",
+      "width": 1080,
+      "height": 775
+    }
+  },
+  "assets/img/portfolio/huro-vision-segmentation.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-segmentation-thumb.webp",
+      "width": 144,
+      "height": 83
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-segmentation-card.webp",
+      "width": 640,
+      "height": 369
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-segmentation-full.webp",
+      "width": 1080,
+      "height": 623
+    }
+  },
+  "assets/img/portfolio/huro-vision-top-view.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/huro-vision-top-view-thumb.webp",
+      "width": 144,
+      "height": 85
+    },
+    "card": {
+      "src": "assets/img/optimized/huro-vision-top-view-card.webp",
+      "width": 640,
+      "height": 377
+    },
+    "full": {
+      "src": "assets/img/optimized/huro-vision-top-view-full.webp",
+      "width": 1080,
+      "height": 637
+    }
+  },
+  "assets/img/portfolio/immersive-telepresence-robot.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/immersive-telepresence-robot-thumb.webp",
+      "width": 144,
+      "height": 74
+    },
+    "card": {
+      "src": "assets/img/optimized/immersive-telepresence-robot-card.webp",
+      "width": 640,
+      "height": 328
+    },
+    "full": {
+      "src": "assets/img/optimized/immersive-telepresence-robot-full.webp",
+      "width": 1200,
+      "height": 615
+    }
+  },
+  "assets/img/portfolio/imumotion-draw-circle-results.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-draw-circle-results-thumb.webp",
+      "width": 144,
+      "height": 58
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-draw-circle-results-card.webp",
+      "width": 640,
+      "height": 260
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-draw-circle-results-full.webp",
+      "width": 1080,
+      "height": 438
+    }
+  },
+  "assets/img/portfolio/imumotion-draw-circle.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-draw-circle-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-draw-circle-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-draw-circle-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/imumotion-elbow-tracked.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-elbow-tracked-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-elbow-tracked-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-elbow-tracked-full.webp",
+      "width": 1080,
+      "height": 810
+    }
+  },
+  "assets/img/portfolio/imumotion-encoder.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-encoder-thumb.webp",
+      "width": 137,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-encoder-card.webp",
+      "width": 610,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-encoder-full.webp",
+      "width": 762,
+      "height": 800
+    }
+  },
+  "assets/img/portfolio/imumotion-setup.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-setup-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-setup-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-setup-full.webp",
+      "width": 1200,
+      "height": 900
+    }
+  },
+  "assets/img/portfolio/imumotion-shoulder-tracked.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imumotion-shoulder-tracked-thumb.webp",
+      "width": 144,
+      "height": 109
+    },
+    "card": {
+      "src": "assets/img/optimized/imumotion-shoulder-tracked-card.webp",
+      "width": 640,
+      "height": 485
+    },
+    "full": {
+      "src": "assets/img/optimized/imumotion-shoulder-tracked-full.webp",
+      "width": 1080,
+      "height": 819
+    }
+  },
+  "assets/img/portfolio/imusensor-comparison.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-comparison-thumb.webp",
+      "width": 144,
+      "height": 100
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-comparison-card.webp",
+      "width": 640,
+      "height": 443
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-comparison-full.webp",
+      "width": 1080,
+      "height": 747
+    }
+  },
+  "assets/img/portfolio/imusensor-cyclic-motion.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-cyclic-motion-thumb.webp",
+      "width": 144,
+      "height": 86
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-cyclic-motion-card.webp",
+      "width": 640,
+      "height": 380
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-cyclic-motion-full.webp",
+      "width": 1080,
+      "height": 642
+    }
+  },
+  "assets/img/portfolio/imusensor-drone.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-drone-thumb.webp",
+      "width": 144,
+      "height": 103
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-drone-card.webp",
+      "width": 640,
+      "height": 458
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-drone-full.webp",
+      "width": 800,
+      "height": 572
+    }
+  },
+  "assets/img/portfolio/imusensor-gradientdescent-result.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-result-thumb.webp",
+      "width": 144,
+      "height": 99
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-result-card.webp",
+      "width": 640,
+      "height": 442
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-result-full.webp",
+      "width": 1080,
+      "height": 746
+    }
+  },
+  "assets/img/portfolio/imusensor-gradientdescent.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-thumb.webp",
+      "width": 144,
+      "height": 85
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-card.webp",
+      "width": 640,
+      "height": 377
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-gradientdescent-full.webp",
+      "width": 1080,
+      "height": 637
+    }
+  },
+  "assets/img/portfolio/imusensor-gui-manipulator.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-gui-manipulator-thumb.webp",
+      "width": 144,
+      "height": 99
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-gui-manipulator-card.webp",
+      "width": 640,
+      "height": 439
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-gui-manipulator-full.webp",
+      "width": 1080,
+      "height": 741
+    }
+  },
+  "assets/img/portfolio/imusensor-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-gui-thumb.webp",
+      "width": 144,
+      "height": 93
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-gui-card.webp",
+      "width": 640,
+      "height": 415
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-gui-full.webp",
+      "width": 1080,
+      "height": 701
+    }
+  },
+  "assets/img/portfolio/imusensor-mahonyfilter-result.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-result-thumb.webp",
+      "width": 144,
+      "height": 100
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-result-card.webp",
+      "width": 640,
+      "height": 443
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-result-full.webp",
+      "width": 1080,
+      "height": 747
+    }
+  },
+  "assets/img/portfolio/imusensor-mahonyfilter.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-thumb.webp",
+      "width": 144,
+      "height": 67
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-card.webp",
+      "width": 640,
+      "height": 299
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-mahonyfilter-full.webp",
+      "width": 1080,
+      "height": 504
+    }
+  },
+  "assets/img/portfolio/imusensor-module.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-module-thumb.webp",
+      "width": 144,
+      "height": 104
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-module-card.webp",
+      "width": 640,
+      "height": 461
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-module-full.webp",
+      "width": 818,
+      "height": 589
+    }
+  },
+  "assets/img/portfolio/imusensor-schematic.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/imusensor-schematic-thumb.webp",
+      "width": 144,
+      "height": 98
+    },
+    "card": {
+      "src": "assets/img/optimized/imusensor-schematic-card.webp",
+      "width": 640,
+      "height": 435
+    },
+    "full": {
+      "src": "assets/img/optimized/imusensor-schematic-full.webp",
+      "width": 1080,
+      "height": 734
+    }
+  },
+  "assets/img/portfolio/isro-realrobot-onstair.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/isro-realrobot-onstair-thumb.webp",
+      "width": 144,
+      "height": 94
+    },
+    "card": {
+      "src": "assets/img/optimized/isro-realrobot-onstair-card.webp",
+      "width": 640,
+      "height": 418
+    },
+    "full": {
+      "src": "assets/img/optimized/isro-realrobot-onstair-full.webp",
+      "width": 1080,
+      "height": 706
+    }
+  },
+  "assets/img/portfolio/isro-run-experiment.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/isro-run-experiment-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/isro-run-experiment-card.webp",
+      "width": 640,
+      "height": 359
+    },
+    "full": {
+      "src": "assets/img/optimized/isro-run-experiment-full.webp",
+      "width": 1080,
+      "height": 606
+    }
+  },
+  "assets/img/portfolio/isro-simulation.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/isro-simulation-thumb.webp",
+      "width": 144,
+      "height": 69
+    },
+    "card": {
+      "src": "assets/img/optimized/isro-simulation-card.webp",
+      "width": 640,
+      "height": 306
+    },
+    "full": {
+      "src": "assets/img/optimized/isro-simulation-full.webp",
+      "width": 1080,
+      "height": 516
+    }
+  },
+  "assets/img/portfolio/isro-stepping-stair.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/isro-stepping-stair-thumb.webp",
+      "width": 144,
+      "height": 78
+    },
+    "card": {
+      "src": "assets/img/optimized/isro-stepping-stair-card.webp",
+      "width": 640,
+      "height": 347
+    },
+    "full": {
+      "src": "assets/img/optimized/isro-stepping-stair-full.webp",
+      "width": 800,
+      "height": 434
+    }
+  },
+  "assets/img/portfolio/manipulator-grasping-sequence.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/manipulator-grasping-sequence-thumb.webp",
+      "width": 144,
+      "height": 39
+    },
+    "card": {
+      "src": "assets/img/optimized/manipulator-grasping-sequence-card.webp",
+      "width": 640,
+      "height": 173
+    },
+    "full": {
+      "src": "assets/img/optimized/manipulator-grasping-sequence-full.webp",
+      "width": 1080,
+      "height": 292
+    }
+  },
+  "assets/img/portfolio/manipulator-grasping1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/manipulator-grasping1-thumb.webp",
+      "width": 144,
+      "height": 137
+    },
+    "card": {
+      "src": "assets/img/optimized/manipulator-grasping1-card.webp",
+      "width": 480,
+      "height": 457
+    },
+    "full": {
+      "src": "assets/img/optimized/manipulator-grasping1-full.webp",
+      "width": 480,
+      "height": 457
+    }
+  },
+  "assets/img/portfolio/marelectronics-design1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-design1-thumb.webp",
+      "width": 144,
+      "height": 104
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-design1-card.webp",
+      "width": 640,
+      "height": 460
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-design1-full.webp",
+      "width": 1080,
+      "height": 777
+    }
+  },
+  "assets/img/portfolio/marelectronics-design2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-design2-thumb.webp",
+      "width": 144,
+      "height": 85
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-design2-card.webp",
+      "width": 640,
+      "height": 380
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-design2-full.webp",
+      "width": 1080,
+      "height": 641
+    }
+  },
+  "assets/img/portfolio/marelectronics-driver.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-driver-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-driver-card.webp",
+      "width": 640,
+      "height": 482
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-driver-full.webp",
+      "width": 1080,
+      "height": 813
+    }
+  },
+  "assets/img/portfolio/marelectronics-integration.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-integration-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-integration-card.webp",
+      "width": 640,
+      "height": 482
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-integration-full.webp",
+      "width": 1080,
+      "height": 813
+    }
+  },
+  "assets/img/portfolio/marelectronics-mainboard.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-mainboard-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-mainboard-card.webp",
+      "width": 640,
+      "height": 482
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-mainboard-full.webp",
+      "width": 1080,
+      "height": 813
+    }
+  },
+  "assets/img/portfolio/marelectronics-schematic-v2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-schematic-v2-thumb.webp",
+      "width": 144,
+      "height": 107
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-schematic-v2-card.webp",
+      "width": 640,
+      "height": 476
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-schematic-v2-full.webp",
+      "width": 1080,
+      "height": 803
+    }
+  },
+  "assets/img/portfolio/marelectronics-schematic-v3a.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3a-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3a-card.webp",
+      "width": 640,
+      "height": 447
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3a-full.webp",
+      "width": 1080,
+      "height": 754
+    }
+  },
+  "assets/img/portfolio/marelectronics-schematic-v3b.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3b-thumb.webp",
+      "width": 144,
+      "height": 91
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3b-card.webp",
+      "width": 640,
+      "height": 402
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-schematic-v3b-full.webp",
+      "width": 1080,
+      "height": 679
+    }
+  },
+  "assets/img/portfolio/marelectronics-wiring-design.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marelectronics-wiring-design-thumb.webp",
+      "width": 144,
+      "height": 129
+    },
+    "card": {
+      "src": "assets/img/optimized/marelectronics-wiring-design-card.webp",
+      "width": 640,
+      "height": 575
+    },
+    "full": {
+      "src": "assets/img/optimized/marelectronics-wiring-design-full.webp",
+      "width": 800,
+      "height": 719
+    }
+  },
+  "assets/img/portfolio/marmech-design1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-design1-thumb.webp",
+      "width": 144,
+      "height": 104
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-design1-card.webp",
+      "width": 640,
+      "height": 460
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-design1-full.webp",
+      "width": 1080,
+      "height": 777
+    }
+  },
+  "assets/img/portfolio/marmech-design2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-design2-thumb.webp",
+      "width": 144,
+      "height": 84
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-design2-card.webp",
+      "width": 640,
+      "height": 373
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-design2-full.webp",
+      "width": 1080,
+      "height": 629
+    }
+  },
+  "assets/img/portfolio/marmech-design3.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-design3-thumb.webp",
+      "width": 144,
+      "height": 98
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-design3-card.webp",
+      "width": 640,
+      "height": 434
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-design3-full.webp",
+      "width": 1080,
+      "height": 732
+    }
+  },
+  "assets/img/portfolio/marmech-final-design.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-final-design-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-final-design-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-final-design-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/marmech-integration.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-integration-thumb.webp",
+      "width": 144,
+      "height": 86
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-integration-card.webp",
+      "width": 640,
+      "height": 382
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-integration-full.webp",
+      "width": 1080,
+      "height": 644
+    }
+  },
+  "assets/img/portfolio/marmech-kinematics.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-kinematics-thumb.webp",
+      "width": 144,
+      "height": 85
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-kinematics-card.webp",
+      "width": 640,
+      "height": 378
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-kinematics-full.webp",
+      "width": 1080,
+      "height": 638
+    }
+  },
+  "assets/img/portfolio/marmech-soccer.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marmech-soccer-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/marmech-soccer-card.webp",
+      "width": 640,
+      "height": 448
+    },
+    "full": {
+      "src": "assets/img/optimized/marmech-soccer-full.webp",
+      "width": 1080,
+      "height": 756
+    }
+  },
+  "assets/img/portfolio/marvision-agent-id.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-agent-id-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-agent-id-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-agent-id-full.webp",
+      "width": 1080,
+      "height": 810
+    }
+  },
+  "assets/img/portfolio/marvision-camera-stand.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-camera-stand-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-camera-stand-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-camera-stand-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/marvision-controldesign.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-controldesign-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-controldesign-card.webp",
+      "width": 640,
+      "height": 425
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-controldesign-full.webp",
+      "width": 1080,
+      "height": 718
+    }
+  },
+  "assets/img/portfolio/marvision-dribble-ball.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-dribble-ball-thumb.webp",
+      "width": 144,
+      "height": 93
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-dribble-ball-card.webp",
+      "width": 640,
+      "height": 414
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-dribble-ball-full.webp",
+      "width": 1080,
+      "height": 698
+    }
+  },
+  "assets/img/portfolio/marvision-dribble-togoal.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-dribble-togoal-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-dribble-togoal-card.webp",
+      "width": 640,
+      "height": 450
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-dribble-togoal-full.webp",
+      "width": 1080,
+      "height": 760
+    }
+  },
+  "assets/img/portfolio/marvision-gui-calibration.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-gui-calibration-thumb.webp",
+      "width": 144,
+      "height": 86
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-gui-calibration-card.webp",
+      "width": 640,
+      "height": 380
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-gui-calibration-full.webp",
+      "width": 1080,
+      "height": 642
+    }
+  },
+  "assets/img/portfolio/marvision-gui-tracking.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-gui-tracking-thumb.webp",
+      "width": 144,
+      "height": 83
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-gui-tracking-card.webp",
+      "width": 640,
+      "height": 368
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-gui-tracking-full.webp",
+      "width": 1080,
+      "height": 621
+    }
+  },
+  "assets/img/portfolio/marvision-twins.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/marvision-twins-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/marvision-twins-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/marvision-twins-full.webp",
+      "width": 800,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/mobilerobot-gui-client.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mobilerobot-gui-client-thumb.webp",
+      "width": 144,
+      "height": 112
+    },
+    "card": {
+      "src": "assets/img/optimized/mobilerobot-gui-client-card.webp",
+      "width": 640,
+      "height": 498
+    },
+    "full": {
+      "src": "assets/img/optimized/mobilerobot-gui-client-full.webp",
+      "width": 800,
+      "height": 622
+    }
+  },
+  "assets/img/portfolio/mobilerobot-gui-server.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mobilerobot-gui-server-thumb.webp",
+      "width": 144,
+      "height": 112
+    },
+    "card": {
+      "src": "assets/img/optimized/mobilerobot-gui-server-card.webp",
+      "width": 640,
+      "height": 496
+    },
+    "full": {
+      "src": "assets/img/optimized/mobilerobot-gui-server-full.webp",
+      "width": 800,
+      "height": 620
+    }
+  },
+  "assets/img/portfolio/mobilerobot-io.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mobilerobot-io-thumb.webp",
+      "width": 144,
+      "height": 60
+    },
+    "card": {
+      "src": "assets/img/optimized/mobilerobot-io-card.webp",
+      "width": 640,
+      "height": 268
+    },
+    "full": {
+      "src": "assets/img/optimized/mobilerobot-io-full.webp",
+      "width": 800,
+      "height": 335
+    }
+  },
+  "assets/img/portfolio/mobilerobot-standby.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mobilerobot-standby-thumb.webp",
+      "width": 144,
+      "height": 53
+    },
+    "card": {
+      "src": "assets/img/optimized/mobilerobot-standby-card.webp",
+      "width": 640,
+      "height": 238
+    },
+    "full": {
+      "src": "assets/img/optimized/mobilerobot-standby-full.webp",
+      "width": 800,
+      "height": 297
+    }
+  },
+  "assets/img/portfolio/mocap-body-tracking.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-body-tracking-thumb.webp",
+      "width": 144,
+      "height": 75
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-body-tracking-card.webp",
+      "width": 640,
+      "height": 331
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-body-tracking-full.webp",
+      "width": 1340,
+      "height": 694
+    }
+  },
+  "assets/img/portfolio/mocap-comm-protocol.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-comm-protocol-thumb.webp",
+      "width": 144,
+      "height": 79
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-comm-protocol-card.webp",
+      "width": 640,
+      "height": 351
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-comm-protocol-full.webp",
+      "width": 1200,
+      "height": 658
+    }
+  },
+  "assets/img/portfolio/mocap-electronic-devices.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-electronic-devices-thumb.webp",
+      "width": 144,
+      "height": 90
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-electronic-devices-card.webp",
+      "width": 640,
+      "height": 399
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-electronic-devices-full.webp",
+      "width": 1080,
+      "height": 673
+    }
+  },
+  "assets/img/portfolio/mocap-flowchart.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-flowchart-thumb.webp",
+      "width": 144,
+      "height": 95
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-flowchart-card.webp",
+      "width": 640,
+      "height": 421
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-flowchart-full.webp",
+      "width": 1400,
+      "height": 921
+    }
+  },
+  "assets/img/portfolio/mocap-gui.JPG": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-gui-thumb.webp",
+      "width": 144,
+      "height": 94
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-gui-card.webp",
+      "width": 640,
+      "height": 416
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-gui-full.webp",
+      "width": 1020,
+      "height": 663
+    }
+  },
+  "assets/img/portfolio/mocap-schematic.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-schematic-thumb.webp",
+      "width": 144,
+      "height": 90
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-schematic-card.webp",
+      "width": 640,
+      "height": 398
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-schematic-full.webp",
+      "width": 1200,
+      "height": 747
+    }
+  },
+  "assets/img/portfolio/mocap-skeletal-kinematics.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-skeletal-kinematics-thumb.webp",
+      "width": 144,
+      "height": 90
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-skeletal-kinematics-card.webp",
+      "width": 640,
+      "height": 401
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-skeletal-kinematics-full.webp",
+      "width": 1327,
+      "height": 831
+    }
+  },
+  "assets/img/portfolio/mocap-skeletal-model.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-skeletal-model-thumb.webp",
+      "width": 144,
+      "height": 103
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-skeletal-model-card.webp",
+      "width": 640,
+      "height": 459
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-skeletal-model-full.webp",
+      "width": 836,
+      "height": 600
+    }
+  },
+  "assets/img/portfolio/mocap-skeletal.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/mocap-skeletal-thumb.webp",
+      "width": 142,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/mocap-skeletal-card.webp",
+      "width": 630,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/mocap-skeletal-full.webp",
+      "width": 1034,
+      "height": 1050
+    }
+  },
+  "assets/img/portfolio/oulucampus-corridor1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-corridor1-thumb.webp",
+      "width": 144,
+      "height": 79
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-corridor1-card.webp",
+      "width": 640,
+      "height": 351
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-corridor1-full.webp",
+      "width": 1200,
+      "height": 659
+    }
+  },
+  "assets/img/portfolio/oulucampus-corridor2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-corridor2-thumb.webp",
+      "width": 144,
+      "height": 80
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-corridor2-card.webp",
+      "width": 640,
+      "height": 354
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-corridor2-full.webp",
+      "width": 1200,
+      "height": 664
+    }
+  },
+  "assets/img/portfolio/oulucampus-lounge1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-lounge1-thumb.webp",
+      "width": 144,
+      "height": 80
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-lounge1-card.webp",
+      "width": 640,
+      "height": 356
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-lounge1-full.webp",
+      "width": 1080,
+      "height": 601
+    }
+  },
+  "assets/img/portfolio/oulucampus-lounge2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-lounge2-thumb.webp",
+      "width": 144,
+      "height": 80
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-lounge2-card.webp",
+      "width": 640,
+      "height": 356
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-lounge2-full.webp",
+      "width": 1200,
+      "height": 667
+    }
+  },
+  "assets/img/portfolio/oulucampus-people.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-people-thumb.webp",
+      "width": 144,
+      "height": 78
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-people-card.webp",
+      "width": 640,
+      "height": 345
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-people-full.webp",
+      "width": 1200,
+      "height": 646
+    }
+  },
+  "assets/img/portfolio/oulucampus-stage.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/oulucampus-stage-thumb.webp",
+      "width": 144,
+      "height": 77
+    },
+    "card": {
+      "src": "assets/img/optimized/oulucampus-stage-card.webp",
+      "width": 640,
+      "height": 344
+    },
+    "full": {
+      "src": "assets/img/optimized/oulucampus-stage-full.webp",
+      "width": 1200,
+      "height": 645
+    }
+  },
+  "assets/img/portfolio/panoramic-meeting.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/panoramic-meeting-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/panoramic-meeting-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/panoramic-meeting-full.webp",
+      "width": 1080,
+      "height": 608
+    }
+  },
+  "assets/img/portfolio/panoramic-remove-tripod.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/panoramic-remove-tripod-thumb.webp",
+      "width": 144,
+      "height": 54
+    },
+    "card": {
+      "src": "assets/img/optimized/panoramic-remove-tripod-card.webp",
+      "width": 640,
+      "height": 242
+    },
+    "full": {
+      "src": "assets/img/optimized/panoramic-remove-tripod-full.webp",
+      "width": 1078,
+      "height": 407
+    }
+  },
+  "assets/img/portfolio/panoramic-robot-recording.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/panoramic-robot-recording-thumb.webp",
+      "width": 96,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/panoramic-robot-recording-card.webp",
+      "width": 427,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/panoramic-robot-recording-full.webp",
+      "width": 720,
+      "height": 1080
+    }
+  },
+  "assets/img/portfolio/panoramic-robot-recording2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/panoramic-robot-recording2-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/panoramic-robot-recording2-card.webp",
+      "width": 640,
+      "height": 427
+    },
+    "full": {
+      "src": "assets/img/optimized/panoramic-robot-recording2-full.webp",
+      "width": 1200,
+      "height": 800
+    }
+  },
+  "assets/img/portfolio/panoramic-robot-recording3.JPG": {
+    "thumb": {
+      "src": "assets/img/optimized/panoramic-robot-recording3-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/panoramic-robot-recording3-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/panoramic-robot-recording3-full.webp",
+      "width": 1400,
+      "height": 787
+    }
+  },
+  "assets/img/portfolio/rocket-g01-design.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-design-thumb.webp",
+      "width": 144,
+      "height": 83
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-design-card.webp",
+      "width": 640,
+      "height": 369
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-design-full.webp",
+      "width": 1080,
+      "height": 622
+    }
+  },
+  "assets/img/portfolio/rocket-g01-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-gui-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-gui-card.webp",
+      "width": 640,
+      "height": 448
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-gui-full.webp",
+      "width": 1080,
+      "height": 756
+    }
+  },
+  "assets/img/portfolio/rocket-g01-launched.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-launched-thumb.webp",
+      "width": 108,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-launched-card.webp",
+      "width": 478,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-launched-full.webp",
+      "width": 598,
+      "height": 800
+    }
+  },
+  "assets/img/portfolio/rocket-g01-payload1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-payload1-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-payload1-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-payload1-full.webp",
+      "width": 1080,
+      "height": 810
+    }
+  },
+  "assets/img/portfolio/rocket-g01-payload2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-payload2-thumb.webp",
+      "width": 144,
+      "height": 108
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-payload2-card.webp",
+      "width": 640,
+      "height": 480
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-payload2-full.webp",
+      "width": 1080,
+      "height": 810
+    }
+  },
+  "assets/img/portfolio/rocket-g01-rocket-parts.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-rocket-parts-thumb.webp",
+      "width": 144,
+      "height": 82
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-rocket-parts-card.webp",
+      "width": 640,
+      "height": 365
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-rocket-parts-full.webp",
+      "width": 800,
+      "height": 456
+    }
+  },
+  "assets/img/portfolio/rocket-g01-rocketlauncher.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g01-rocketlauncher-thumb.webp",
+      "width": 144,
+      "height": 94
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g01-rocketlauncher-card.webp",
+      "width": 640,
+      "height": 417
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g01-rocketlauncher-full.webp",
+      "width": 1080,
+      "height": 704
+    }
+  },
+  "assets/img/portfolio/rocket-g02-commprotocol.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-commprotocol-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-commprotocol-card.webp",
+      "width": 640,
+      "height": 447
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-commprotocol-full.webp",
+      "width": 1080,
+      "height": 754
+    }
+  },
+  "assets/img/portfolio/rocket-g02-design.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-design-thumb.webp",
+      "width": 144,
+      "height": 102
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-design-card.webp",
+      "width": 640,
+      "height": 452
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-design-full.webp",
+      "width": 800,
+      "height": 565
+    }
+  },
+  "assets/img/portfolio/rocket-g02-electroparts.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-electroparts-thumb.webp",
+      "width": 144,
+      "height": 97
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-electroparts-card.webp",
+      "width": 640,
+      "height": 429
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-electroparts-full.webp",
+      "width": 1080,
+      "height": 724
+    }
+  },
+  "assets/img/portfolio/rocket-g02-gui.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-gui-thumb.webp",
+      "width": 144,
+      "height": 79
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-gui-card.webp",
+      "width": 640,
+      "height": 350
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-gui-full.webp",
+      "width": 1080,
+      "height": 591
+    }
+  },
+  "assets/img/portfolio/rocket-g02-launch-data.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-launch-data-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-launch-data-card.webp",
+      "width": 640,
+      "height": 447
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-launch-data-full.webp",
+      "width": 1080,
+      "height": 754
+    }
+  },
+  "assets/img/portfolio/rocket-g02-perspective-view.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/rocket-g02-perspective-view-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/rocket-g02-perspective-view-card.webp",
+      "width": 640,
+      "height": 447
+    },
+    "full": {
+      "src": "assets/img/optimized/rocket-g02-perspective-view-full.webp",
+      "width": 1080,
+      "height": 754
+    }
+  },
+  "assets/img/portfolio/simulation-robot-rotations.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/simulation-robot-rotations-thumb.webp",
+      "width": 144,
+      "height": 75
+    },
+    "card": {
+      "src": "assets/img/optimized/simulation-robot-rotations-card.webp",
+      "width": 640,
+      "height": 334
+    },
+    "full": {
+      "src": "assets/img/optimized/simulation-robot-rotations-full.webp",
+      "width": 1200,
+      "height": 626
+    }
+  },
+  "assets/img/portfolio/simulation-robot-telepresence.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/simulation-robot-telepresence-thumb.webp",
+      "width": 144,
+      "height": 97
+    },
+    "card": {
+      "src": "assets/img/optimized/simulation-robot-telepresence-card.webp",
+      "width": 640,
+      "height": 430
+    },
+    "full": {
+      "src": "assets/img/optimized/simulation-robot-telepresence-full.webp",
+      "width": 916,
+      "height": 615
+    }
+  },
+  "assets/img/portfolio/simulation-robot-tellus1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/simulation-robot-tellus1-thumb.webp",
+      "width": 144,
+      "height": 76
+    },
+    "card": {
+      "src": "assets/img/optimized/simulation-robot-tellus1-card.webp",
+      "width": 640,
+      "height": 338
+    },
+    "full": {
+      "src": "assets/img/optimized/simulation-robot-tellus1-full.webp",
+      "width": 1200,
+      "height": 634
+    }
+  },
+  "assets/img/portfolio/simulation-robot-tellus2.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/simulation-robot-tellus2-thumb.webp",
+      "width": 144,
+      "height": 74
+    },
+    "card": {
+      "src": "assets/img/optimized/simulation-robot-tellus2-card.webp",
+      "width": 640,
+      "height": 328
+    },
+    "full": {
+      "src": "assets/img/optimized/simulation-robot-tellus2-full.webp",
+      "width": 1200,
+      "height": 615
+    }
+  },
+  "assets/img/portfolio/simulation-robot-tellus3.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/simulation-robot-tellus3-thumb.webp",
+      "width": 144,
+      "height": 72
+    },
+    "card": {
+      "src": "assets/img/optimized/simulation-robot-tellus3-card.webp",
+      "width": 640,
+      "height": 321
+    },
+    "full": {
+      "src": "assets/img/optimized/simulation-robot-tellus3-full.webp",
+      "width": 1200,
+      "height": 602
+    }
+  },
+  "assets/img/portfolio/telepresence-robot-1.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/telepresence-robot-1-thumb.webp",
+      "width": 108,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/telepresence-robot-1-card.webp",
+      "width": 480,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/telepresence-robot-1-full.webp",
+      "width": 800,
+      "height": 1067
+    }
+  },
+  "assets/img/portfolio/telepresence-robot-deployed-tellus.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/telepresence-robot-deployed-tellus-thumb.webp",
+      "width": 144,
+      "height": 102
+    },
+    "card": {
+      "src": "assets/img/optimized/telepresence-robot-deployed-tellus-card.webp",
+      "width": 640,
+      "height": 454
+    },
+    "full": {
+      "src": "assets/img/optimized/telepresence-robot-deployed-tellus-full.webp",
+      "width": 1080,
+      "height": 766
+    }
+  },
+  "assets/img/portfolio/telepresence-robot-equirectangular.JPG": {
+    "thumb": {
+      "src": "assets/img/optimized/telepresence-robot-equirectangular-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/telepresence-robot-equirectangular-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/telepresence-robot-equirectangular-full.webp",
+      "width": 1080,
+      "height": 608
+    }
+  },
+  "assets/img/portfolio/telepresence-robot-greeting.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/telepresence-robot-greeting-thumb.webp",
+      "width": 144,
+      "height": 99
+    },
+    "card": {
+      "src": "assets/img/optimized/telepresence-robot-greeting-card.webp",
+      "width": 640,
+      "height": 438
+    },
+    "full": {
+      "src": "assets/img/optimized/telepresence-robot-greeting-full.webp",
+      "width": 1200,
+      "height": 822
+    }
+  },
+  "assets/img/portfolio/telepresence-robot-tellus-map.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/telepresence-robot-tellus-map-thumb.webp",
+      "width": 144,
+      "height": 101
+    },
+    "card": {
+      "src": "assets/img/optimized/telepresence-robot-tellus-map-card.webp",
+      "width": 640,
+      "height": 450
+    },
+    "full": {
+      "src": "assets/img/optimized/telepresence-robot-tellus-map-full.webp",
+      "width": 1200,
+      "height": 843
+    }
+  },
+  "assets/img/portfolio/xr-cinematech-architecture.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-architecture-thumb.webp",
+      "width": 144,
+      "height": 98
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-architecture-card.webp",
+      "width": 640,
+      "height": 435
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-architecture-full.webp",
+      "width": 1041,
+      "height": 707
+    }
+  },
+  "assets/img/portfolio/xr-cinematech-projections.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-projections-thumb.webp",
+      "width": 144,
+      "height": 124
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-projections-card.webp",
+      "width": 640,
+      "height": 550
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-projections-full.webp",
+      "width": 1089,
+      "height": 936
+    }
+  },
+  "assets/img/portfolio/xr-cinematech-rendering.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-rendering-thumb.webp",
+      "width": 144,
+      "height": 61
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-rendering-card.webp",
+      "width": 640,
+      "height": 273
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-rendering-full.webp",
+      "width": 1128,
+      "height": 481
+    }
+  },
+  "assets/img/portfolio/xr-cinematech-seams.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-seams-thumb.webp",
+      "width": 144,
+      "height": 56
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-seams-card.webp",
+      "width": 640,
+      "height": 251
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-seams-full.webp",
+      "width": 1400,
+      "height": 549
+    }
+  },
+  "assets/img/portfolio/xr-cinematech-vertices.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-vertices-thumb.webp",
+      "width": 144,
+      "height": 113
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-vertices-card.webp",
+      "width": 640,
+      "height": 501
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-vertices-full.webp",
+      "width": 1226,
+      "height": 959
+    }
+  },
+  "assets/img/portfolio/xr-cinematech.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/xr-cinematech-thumb.webp",
+      "width": 139,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/xr-cinematech-card.webp",
+      "width": 620,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/xr-cinematech-full.webp",
+      "width": 704,
+      "height": 727
+    }
+  },
+  "assets/img/profile-img.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/profile-img-thumb.webp",
+      "width": 107,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/profile-img-card.webp",
+      "width": 475,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/profile-img-full.webp",
+      "width": 575,
+      "height": 775
+    }
+  }
+}

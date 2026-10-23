@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adhi-w.github.io/sitemap.xml

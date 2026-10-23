@@ -1,0 +1,752 @@
+[
+  {
+    "slug": "telepresence-robot",
+    "file": "portfolio-details-telepresence-robot.html",
+    "title": "Immersive robotic telepresence",
+    "date": "2021?2022",
+    "context": "Research",
+    "funding": "UniOGS Infotech",
+    "cover": "assets/img/portfolio/telepresence-robot-1.jpg",
+    "images": [
+      "assets/img/portfolio/telepresence-robot-1.jpg",
+      "assets/img/portfolio/immersive-telepresence-robot.jpg",
+      "assets/img/portfolio/telepresence-robot-equirectangular.JPG",
+      "assets/img/portfolio/telepresence-robot-greeting.jpg",
+      "assets/img/portfolio/telepresence-robot-deployed-tellus.jpg",
+      "assets/img/portfolio/telepresence-robot-tellus-map.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Unity",
+      "C#",
+      "ROS 2",
+      "User studies"
+    ],
+    "summary": "Connecting remote spaces through robotics and immersive video.",
+    "overview": "I helped build a telepresence system that lets people experience a remote location through a mobile robot and a VR headset. Working with software, hardware, and design colleagues, I brought a simulated research setup into a physical robot study. The study compared unwound camera rotations with conventional coupled rotations to investigate user comfort.",
+    "contributions": [
+      "Integrated 360? camera footage with robot orientation in Unity and ROS 2.",
+      "Worked on video synchronization, communication latency, and image vibration.",
+      "Deployed the robot, mapped the environment, and supported user studies."
+    ]
+  },
+  {
+    "slug": "xr-cinematech",
+    "file": "portfolio-details-xr-cinematech.html",
+    "title": "XR cinema technology",
+    "date": "2019?2023",
+    "context": "Research",
+    "funding": "6G Flagship (2019) & UniOGS Infotech",
+    "cover": "assets/img/portfolio/xr-cinematech.jpg",
+    "images": [
+      "assets/img/portfolio/xr-cinematech.jpg",
+      "assets/img/portfolio/xr-cinematech-architecture.jpg",
+      "assets/img/portfolio/xr-cinematech-vertices.jpg",
+      "assets/img/portfolio/xr-cinematech-projections.jpg",
+      "assets/img/portfolio/xr-cinematech-rendering.jpg",
+      "assets/img/portfolio/xr-cinematech-seams.jpg"
+    ],
+    "category": "VR & XR",
+    "tags": [
+      "Unity",
+      "C#",
+      "Shaders",
+      "360? video"
+    ],
+    "summary": "High-resolution immersive rendering across VR and XR headsets.",
+    "overview": "I developed rendering software for immersive images and video, then extended it across multiple VR and XR headsets. The work combined custom mesh generation, projection mapping, and headset integration to support research in telepresence and perception.",
+    "contributions": [
+      "Developed mesh generation and projection mapping for seamless panoramic rendering.",
+      "Rendered 360? images up to 16K resolution and video up to 8K.",
+      "Integrated Oculus and Varjo headsets, gaze tracking, video passthrough, and live video."
+    ]
+  },
+  {
+    "slug": "3d-scanner",
+    "file": "portfolio-details-3d-scanner.html",
+    "title": "3D scanning for virtual worlds",
+    "date": "2019?2022",
+    "context": "6G Project",
+    "funding": "6G Flagship",
+    "cover": "assets/img/portfolio/6g-flagship-3d-scanner.jpg",
+    "images": [
+      "assets/img/portfolio/6g-flagship-3d-scanner.jpg",
+      "assets/img/portfolio/3d-scanner-view.jpg",
+      "assets/img/portfolio/3d-scanner-init.jpg",
+      "assets/img/portfolio/3d-scanner-gui.jpg"
+    ],
+    "category": "VR & XR",
+    "tags": [
+      "Photogrammetry",
+      "Agisoft",
+      "Blender",
+      "3D assets"
+    ],
+    "summary": "Turning captured subjects into usable assets for virtual environments.",
+    "overview": "As part of the 6G Flagship program, I helped set up and operate a photogrammetry-based 3D scanner. I worked with project teams to capture human and animal subjects and prepare the resulting models for VR, online viewing, and 3D printing.",
+    "contributions": [
+      "Prepared scanning sessions and supported the capture and collection of image data.",
+      "Processed images into point clouds, meshes, and textured models using Agisoft.",
+      "Cleaned geometry, reduced polygon counts, and repaired textures in Blender."
+    ]
+  },
+  {
+    "slug": "oulucampus-ve",
+    "file": "portfolio-details-oulucampus-ve.html",
+    "title": "Oulu campus in virtual reality",
+    "date": "2020?2021",
+    "context": "Research",
+    "funding": "UniOGS Infotech",
+    "cover": "assets/img/portfolio/oulucampus-lounge1.jpg",
+    "images": [
+      "assets/img/portfolio/oulucampus-lounge1.jpg",
+      "assets/img/portfolio/oulucampus-lounge2.jpg",
+      "assets/img/portfolio/oulucampus-stage.jpg",
+      "assets/img/portfolio/oulucampus-corridor1.jpg",
+      "assets/img/portfolio/oulucampus-corridor2.jpg",
+      "assets/img/portfolio/oulucampus-people.jpg"
+    ],
+    "category": "VR & XR",
+    "tags": [
+      "Unity",
+      "3D modeling",
+      "PBR materials",
+      "Lighting"
+    ],
+    "summary": "A detailed virtual campus built for immersive research.",
+    "overview": "I modeled spaces inspired by the University of Oulu campus, including Tellus, for use in virtual reality. The environment brought architectural modeling, lighting, interactive objects, and animated characters into a shared research setting.",
+    "contributions": [
+      "Created building geometry, furniture, and props.",
+      "Prepared PBR materials, light maps, lighting probes, and animated human avatars.",
+      "Implemented interactive objects and optimized rendering performance for VR."
+    ]
+  },
+  {
+    "slug": "buddy-robot",
+    "file": "portfolio-details-buddy-robot.html",
+    "title": "Robotic benchmarking of VR headsets",
+    "date": "2019?2020",
+    "context": "Lab Infrastructure",
+    "funding": "6G Flagship",
+    "cover": "assets/img/portfolio/buddy-demo.jpg",
+    "images": [
+      "assets/img/portfolio/buddy-demo.jpg",
+      "assets/img/portfolio/buddy-test-oculusgo.jpg",
+      "assets/img/portfolio/buddy-gui.jpg",
+      "assets/img/portfolio/buddy-benchmark-oculusgo.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "VR testing",
+      "Python",
+      "Data analysis"
+    ],
+    "summary": "Using a robot platform to evaluate headset performance.",
+    "overview": "I worked with Optofidelity engineers to evaluate software and test procedures for VR headset benchmarking. The project used the Buddy robot platform to investigate display and tracking performance under controlled conditions.",
+    "contributions": [
+      "Supported tests of resolution, motion-to-photon latency, field of view, and tracking accuracy.",
+      "Evaluated testing procedures with Optofidelity engineers.",
+      "Developed and maintained Python tools for analysis and visualization."
+    ]
+  },
+  {
+    "slug": "oulucampus-telepresence",
+    "file": "portfolio-details-oulucampus-telepresence.html",
+    "title": "Telepresence robot simulation",
+    "date": "2020?2021",
+    "context": "Research",
+    "funding": "UniOGS Infotech",
+    "cover": "assets/img/portfolio/simulation-robot-tellus1.jpg",
+    "images": [
+      "assets/img/portfolio/simulation-robot-tellus1.jpg",
+      "assets/img/portfolio/simulation-robot-telepresence.jpg",
+      "assets/img/portfolio/simulation-robot-rotations.jpg",
+      "assets/img/portfolio/simulation-robot-tellus2.jpg",
+      "assets/img/portfolio/simulation-robot-tellus3.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Unity",
+      "C#",
+      "ROS 2",
+      "Motion planning"
+    ],
+    "summary": "A virtual test environment for robot navigation and user comfort.",
+    "overview": "I developed a robot telepresence simulation using the Oulu campus virtual environment. It supported comparisons between unwound and coupled rotations before moving the research into a physical robot setup.",
+    "contributions": [
+      "Connected Unity and ROS 2 across Windows and Linux using TCP/IP.",
+      "Integrated DWB local planning and A* path planning for navigation and obstacle avoidance.",
+      "Supported VR studies and questionnaires about comfort and the remote experience."
+    ]
+  },
+  {
+    "slug": "mocap",
+    "file": "portfolio-details-mocap.html",
+    "title": "Wearable motion capture",
+    "date": "",
+    "context": "Master Thesis",
+    "funding": "MRL-Taiwan Company",
+    "cover": "assets/img/portfolio/mocap-skeletal.jpg",
+    "images": [
+      "assets/img/portfolio/mocap-skeletal.jpg",
+      "assets/img/portfolio/mocap-gui.JPG",
+      "assets/img/portfolio/mocap-body-tracking.jpg",
+      "assets/img/portfolio/mocap-skeletal-kinematics.jpg",
+      "assets/img/portfolio/mocap-skeletal-model.jpg",
+      "assets/img/portfolio/mocap-electronic-devices.jpg",
+      "assets/img/portfolio/mocap-comm-protocol.jpg",
+      "assets/img/portfolio/mocap-flowchart.jpg",
+      "assets/img/portfolio/mocap-schematic.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "IMU",
+      "Sensor fusion",
+      "Quaternions",
+      "Embedded systems"
+    ],
+    "summary": "A modular sensing system for reconstructing human movement.",
+    "overview": "I developed a wearable motion capture system using inertial measurement units. Each module combined accelerometer, gyroscope, and magnetometer data to estimate orientation, with a quaternion-based approach for reconstructing body movement.",
+    "contributions": [
+      "Designed a modular sensing architecture and skeletal reconstruction workflow.",
+      "Evaluated complementary, gradient-descent, and Mahony filtering approaches.",
+      "Investigated parallel communication between modules and RS485 communication with the host to address latency."
+    ],
+    "date_note": "Date to confirm: source page says 2019?2021, but describes the master?s thesis completed in 2016."
+  },
+  {
+    "slug": "imusensor",
+    "file": "portfolio-details-imusensor.html",
+    "title": "IMU orientation estimation",
+    "date": "2015?2016",
+    "context": "Master Thesis",
+    "funding": "MRL-Taiwan Company",
+    "cover": "assets/img/portfolio/imusensor-cyclic-motion.jpg",
+    "images": [
+      "assets/img/portfolio/imusensor-cyclic-motion.jpg",
+      "assets/img/portfolio/imusensor-drone.jpg",
+      "assets/img/portfolio/imusensor-gui.jpg",
+      "assets/img/portfolio/imusensor-gui-manipulator.jpg",
+      "assets/img/portfolio/imusensor-module.jpg",
+      "assets/img/portfolio/imusensor-schematic.jpg",
+      "assets/img/portfolio/imusensor-gradientdescent.jpg",
+      "assets/img/portfolio/imusensor-mahonyfilter.jpg",
+      "assets/img/portfolio/imusensor-gradientdescent-result.jpg",
+      "assets/img/portfolio/imusensor-mahonyfilter-result.jpg",
+      "assets/img/portfolio/imusensor-comparison.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Sensor fusion",
+      "Quaternions",
+      "Embedded systems"
+    ],
+    "summary": "Evaluating filtering methods for wearable orientation tracking.",
+    "overview": "For my master?s research, I investigated orientation estimation in a wearable system with 13 IMU modules. I compared sensor-fusion approaches against a passive manipulator equipped with encoders, then applied the methods to skeletal animation.",
+    "contributions": [
+      "Combined digital motion processing with complementary, gradient-descent, and Mahony filters.",
+      "Evaluated orientation estimates against encoder reference measurements.",
+      "Reconstructed shoulder and elbow motion at a sampling rate of 24 frames per second."
+    ]
+  },
+  {
+    "slug": "imumotion",
+    "file": "portfolio-details-imumotion.html",
+    "title": "Validating inertial motion tracking",
+    "date": "2015?2016",
+    "context": "Master Thesis",
+    "funding": "MRL-Taiwan Company",
+    "cover": "assets/img/portfolio/imumotion-encoder.jpg",
+    "images": [
+      "assets/img/portfolio/imumotion-encoder.jpg",
+      "assets/img/portfolio/imumotion-setup.jpg",
+      "assets/img/portfolio/imumotion-draw-circle.jpg",
+      "assets/img/portfolio/imumotion-draw-circle-results.jpg",
+      "assets/img/portfolio/imumotion-shoulder-tracked.jpg",
+      "assets/img/portfolio/imumotion-elbow-tracked.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "IMU",
+      "Kinematics",
+      "Motion tracking"
+    ],
+    "summary": "Comparing inertial tracking with encoder and optical measurements.",
+    "overview": "I evaluated IMU-based motion tracking using an arm manipulator with reference measurements from encoders and optical motion capture. The setup made it possible to compare tracked joint motion and the reconstructed end-effector trajectory.",
+    "contributions": [
+      "Mounted IMUs on a manipulator to record shoulder and elbow motion.",
+      "Used forward kinematics to reconstruct the end-effector position.",
+      "Compared circular motion trajectories and reference measurements to assess tracking performance."
+    ]
+  },
+  {
+    "slug": "humanoid",
+    "file": "portfolio-details-humanoid.html",
+    "title": "HuroEvolutionTN humanoid robot",
+    "date": "2014?2015",
+    "context": "Competition",
+    "funding": "Taiwan NSC, MoE",
+    "cover": "assets/img/portfolio/humanoid-huroevolution.jpg",
+    "images": [
+      "assets/img/portfolio/humanoid-huroevolution.jpg",
+      "assets/img/portfolio/humanoid-twins.jpg",
+      "assets/img/portfolio/humanoid-soccer.jpg",
+      "assets/img/portfolio/humanoid-obstacle.jpg",
+      "assets/img/portfolio/humanoid-tuner-gui.jpg",
+      "assets/img/portfolio/humanoid-locomotion.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Humanoid robotics",
+      "Robot control",
+      "Team engineering"
+    ],
+    "summary": "A competition robot bringing mechanics, perception, and control together.",
+    "overview": "I was part of the team developing HuroEvolutionTN, a teen-size biped humanoid robot for international competitions. My work at Taiwan Tech spanned mechanical and electronic development, vision software, and task-oriented robot behavior.",
+    "contributions": [
+      "Contributed to the integration of robot hardware, perception, and control.",
+      "Developed behavior and decision-making software for competition tasks.",
+      "The team placed first in the RoboCup 2015 Teen-size Technical Challenge and second in Teen-size Soccer."
+    ]
+  },
+  {
+    "slug": "hurovision",
+    "file": "portfolio-details-hurovision.html",
+    "title": "Vision for humanoid robot soccer",
+    "date": "2014?2015",
+    "context": "Competition",
+    "funding": "Taiwan NSC, MoE",
+    "cover": "assets/img/portfolio/huro-vision-robot-head.jpg",
+    "images": [
+      "assets/img/portfolio/huro-vision-robot-head.jpg",
+      "assets/img/portfolio/huro-vision-i5comparison.jpg",
+      "assets/img/portfolio/huro-vision-segmentation.jpg",
+      "assets/img/portfolio/huro-vision-linearize-hs.jpg",
+      "assets/img/portfolio/huro-vision-kalman.jpg",
+      "assets/img/portfolio/huro-vision-frontal-view.jpg",
+      "assets/img/portfolio/huro-vision-lateral-view.jpg",
+      "assets/img/portfolio/huro-vision-top-view.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Computer vision",
+      "Kalman filtering",
+      "Localization"
+    ],
+    "summary": "Tracking the ball and interpreting the field while the robot moves.",
+    "overview": "I developed parts of the vision system for HuroEvolutionTN, including color-based object detection and vision-based localization. The work addressed changing illumination and camera movement during robot soccer.",
+    "contributions": [
+      "Applied hue and saturation processing and histogram-based regression for color detection.",
+      "Used Kalman filtering to predict ball movement.",
+      "Connected visual information with task-oriented behavior and decision-making."
+    ]
+  },
+  {
+    "slug": "huromech",
+    "file": "portfolio-details-huromech.html",
+    "title": "Humanoid mechanical design",
+    "date": "2014?2015",
+    "context": "Competition",
+    "funding": "Taiwan NSC, MoE",
+    "cover": "assets/img/portfolio/huro-mech-standing.jpg",
+    "images": [
+      "assets/img/portfolio/huro-mech-standing.jpg",
+      "assets/img/portfolio/huro-mech-design_old.jpg",
+      "assets/img/portfolio/huro-mech-design.jpg",
+      "assets/img/portfolio/huro-mech-design-system.jpg",
+      "assets/img/portfolio/huro-mech-legs.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "CAD",
+      "Mechanisms",
+      "Locomotion"
+    ],
+    "summary": "A lightweight biped structure with parallel leg mechanisms.",
+    "overview": "I contributed to the mechanical design of HuroEvolutionTN. The design used an aluminum body and parallel leg mechanisms to maintain the relationship between the hip and foot planes while supporting stable locomotion.",
+    "contributions": [
+      "Worked on a 15-degree-of-freedom structure and mechanical integration.",
+      "Used leg springs to reduce actuator load and support the resting posture.",
+      "Contributed to locomotion work combining a linear inverted pendulum model with PD control."
+    ]
+  },
+  {
+    "slug": "videography",
+    "file": "portfolio-details-videography.html",
+    "title": "360? video for telepresence",
+    "date": "2019?2022",
+    "context": "Research",
+    "funding": "UniOGS Infotech",
+    "cover": "assets/img/portfolio/panoramic-robot-recording.jpg",
+    "images": [
+      "assets/img/portfolio/panoramic-robot-recording.jpg",
+      "assets/img/portfolio/panoramic-robot-recording2.jpg",
+      "assets/img/portfolio/panoramic-robot-recording3.JPG",
+      "assets/img/portfolio/panoramic-remove-tripod.jpg",
+      "assets/img/portfolio/panoramic-meeting.jpg"
+    ],
+    "category": "VR & XR",
+    "tags": [
+      "360? cameras",
+      "Video production",
+      "Immersive media"
+    ],
+    "summary": "Panoramic footage for robotic and immersive telepresence studies.",
+    "overview": "I captured and produced 360? images and video for research in remote presence. The work included camera setups on mobile robots and immersive meeting scenarios, with attention to stitching quality and the viewing experience in a headset.",
+    "contributions": [
+      "Worked with different panoramic camera systems and recording configurations.",
+      "Produced video sequences for robot telepresence and remote meetings.",
+      "Prepared high-resolution footage and addressed visible stitching artifacts."
+    ]
+  },
+  {
+    "slug": "marvision",
+    "file": "portfolio-details-marvision.html",
+    "title": "Multi-agent robot soccer vision",
+    "date": "2012?2013",
+    "context": "Bachelor Thesis",
+    "funding": "DIKTI-PKMP",
+    "cover": "assets/img/portfolio/marvision-twins.jpg",
+    "images": [
+      "assets/img/portfolio/marvision-twins.jpg",
+      "assets/img/portfolio/marvision-controldesign.jpg",
+      "assets/img/portfolio/marvision-camera-stand.jpg",
+      "assets/img/portfolio/marvision-agent-id.jpg",
+      "assets/img/portfolio/marvision-gui-calibration.jpg",
+      "assets/img/portfolio/marvision-dribble-ball.jpg",
+      "assets/img/portfolio/marvision-gui-tracking.jpg",
+      "assets/img/portfolio/marvision-dribble-togoal.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Computer vision",
+      "Multi-agent systems",
+      "Robot soccer"
+    ],
+    "summary": "Coordinating two robots through a shared view of the field.",
+    "overview": "For my bachelor?s project, I developed a vision-based control system for two holonomic soccer robots. An overhead camera detected robots and the ball, while a leader?follower strategy selected actions based on each robot?s distance from the ball.",
+    "contributions": [
+      "Implemented image segmentation, marker recognition, and ball detection.",
+      "Built calibration and tracking interfaces for the vision system.",
+      "Coordinated robot movement to find the ball and dribble toward the goal."
+    ]
+  },
+  {
+    "slug": "marmech",
+    "file": "portfolio-details-marmech.html",
+    "title": "Multi-agent robot mechanical design",
+    "date": "2012?2013",
+    "context": "Bachelor Thesis",
+    "funding": "DIKTI-PKMP",
+    "cover": "assets/img/portfolio/marmech-final-design.jpg",
+    "images": [
+      "assets/img/portfolio/marmech-final-design.jpg",
+      "assets/img/portfolio/marmech-design1.jpg",
+      "assets/img/portfolio/marmech-design2.jpg",
+      "assets/img/portfolio/marmech-kinematics.jpg",
+      "assets/img/portfolio/marmech-design3.jpg",
+      "assets/img/portfolio/marmech-integration.jpg",
+      "assets/img/portfolio/marmech-soccer.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "CAD",
+      "Holonomic drive",
+      "Prototyping"
+    ],
+    "summary": "Compact soccer robots refined through three mechanical iterations.",
+    "overview": "I designed and built a compact holonomic robot platform for multi-agent soccer. The mechanical layout had to fit the drive system, ball-handling hardware, electronics, and battery into a small body.",
+    "contributions": [
+      "Developed three versions of the mechanical design.",
+      "Integrated four omni-wheel motors, a dribbler motor, and a solenoid kicking mechanism.",
+      "Fabricated and assembled acrylic and aluminum components."
+    ]
+  },
+  {
+    "slug": "marelectronics",
+    "file": "portfolio-details-marelectronics.html",
+    "title": "Multi-agent robot electronics",
+    "date": "2012?2013",
+    "context": "Bachelor Thesis",
+    "funding": "DIKTI-PKMP",
+    "cover": "assets/img/portfolio/marelectronics-wiring-design.jpg",
+    "images": [
+      "assets/img/portfolio/marelectronics-wiring-design.jpg",
+      "assets/img/portfolio/marelectronics-design1.jpg",
+      "assets/img/portfolio/marelectronics-design2.jpg",
+      "assets/img/portfolio/marelectronics-driver.jpg",
+      "assets/img/portfolio/marelectronics-mainboard.jpg",
+      "assets/img/portfolio/marelectronics-integration.jpg",
+      "assets/img/portfolio/marelectronics-schematic-v2.jpg",
+      "assets/img/portfolio/marelectronics-schematic-v3a.jpg",
+      "assets/img/portfolio/marelectronics-schematic-v3b.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "PCB design",
+      "Motor control",
+      "Wireless communication"
+    ],
+    "summary": "Custom control boards connecting the robot?s power, sensing, and motion.",
+    "overview": "I developed three iterations of a control board for the multi-agent robot soccer platform. The electronics brought together motor drivers, power regulation, wireless communication, and debugging connections.",
+    "contributions": [
+      "Created schematics, board layouts, and component wiring designs.",
+      "Considered motor current demand, power consumption, and voltage drop.",
+      "Built transmitter and receiver electronics to connect a PC with the robots."
+    ]
+  },
+  {
+    "slug": "isro",
+    "file": "portfolio-details-isro.html",
+    "title": "Search and rescue robot",
+    "date": "2011?2012",
+    "context": "Research",
+    "funding": "DIPA",
+    "cover": "assets/img/portfolio/isro-stepping-stair.jpg",
+    "images": [
+      "assets/img/portfolio/isro-stepping-stair.jpg",
+      "assets/img/portfolio/isro-run-experiment.jpg",
+      "assets/img/portfolio/isro-simulation.jpg",
+      "assets/img/portfolio/isro-realrobot-onstair.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "SLAM",
+      "Fuzzy logic",
+      "Simulation"
+    ],
+    "summary": "Exploring robot mobility across stairs and uneven terrain.",
+    "overview": "I worked on an intelligent search and rescue robot designed to negotiate difficult terrain. Independent leg movements supported stair climbing, while mapping and obstacle-avoidance methods helped the robot interpret its surroundings.",
+    "contributions": [
+      "Investigated independent leg motion for stairs and uneven surfaces.",
+      "Worked with SLAM and fuzzy-logic obstacle avoidance.",
+      "Evaluated behavior in simulation and physical robot experiments."
+    ]
+  },
+  {
+    "slug": "mobilerobot",
+    "file": "portfolio-details-mobilerobot.html",
+    "title": "Networked mobile robot",
+    "date": "2011?2012",
+    "context": "Course Project",
+    "funding": "",
+    "cover": "assets/img/portfolio/mobilerobot-gui-server.jpg",
+    "images": [
+      "assets/img/portfolio/mobilerobot-gui-server.jpg",
+      "assets/img/portfolio/mobilerobot-gui-client.jpg",
+      "assets/img/portfolio/mobilerobot-io.jpg",
+      "assets/img/portfolio/mobilerobot-standby.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "TCP/IP",
+      "Windows sockets",
+      "RS232"
+    ],
+    "summary": "Remote control and live sensor monitoring through a client?server interface.",
+    "overview": "I designed and implemented a monitoring system that connected multiple clients to a mobile robot through a server. Remote users could control the robot and inspect sensor readings through custom interfaces.",
+    "contributions": [
+      "Implemented client?server communication with Windows sockets and TCP/IP.",
+      "Connected the server to the robot using wireless serial communication.",
+      "Displayed heading, acceleration, and temperature data in monitoring interfaces."
+    ]
+  },
+  {
+    "slug": "rocket-g02",
+    "file": "portfolio-details-rocket-g02.html",
+    "title": "EEPISky G-02 rocket payload",
+    "date": "2010?2011",
+    "context": "Competition",
+    "funding": "EEPIS",
+    "cover": "assets/img/portfolio/rocket-g02-design.jpg",
+    "images": [
+      "assets/img/portfolio/rocket-g02-design.jpg",
+      "assets/img/portfolio/rocket-g02-electroparts.jpg",
+      "assets/img/portfolio/rocket-g02-perspective-view.jpg",
+      "assets/img/portfolio/rocket-g02-commprotocol.jpg",
+      "assets/img/portfolio/rocket-g02-gui.jpg",
+      "assets/img/portfolio/rocket-g02-launch-data.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Telemetry",
+      "Embedded systems",
+      "Sensors"
+    ],
+    "summary": "An instrumented payload for atmospheric measurements and aerial imagery.",
+    "overview": "Following the G-01 project, our team developed a new payload for KOMURINDO 2011. It combined a camera with compass, acceleration, pressure, and humidity sensing, alongside a homing actuator system.",
+    "contributions": [
+      "Integrated sensors, imaging, and telemetry in the payload.",
+      "Monitored transmitted data during the launch and analyzed recorded measurements.",
+      "The team won first place at the Indonesian National Payload Rocket Competition, KOMURINDO 2011."
+    ]
+  },
+  {
+    "slug": "rocket-g01",
+    "file": "portfolio-details-rocket-g01.html",
+    "title": "EEPISky G-01 rocket payload",
+    "date": "2009?2010",
+    "context": "Competition",
+    "funding": "EEPIS",
+    "cover": "assets/img/portfolio/rocket-g01-launched.jpg",
+    "images": [
+      "assets/img/portfolio/rocket-g01-launched.jpg",
+      "assets/img/portfolio/rocket-g01-rocket-parts.jpg",
+      "assets/img/portfolio/rocket-g01-rocketlauncher.jpg",
+      "assets/img/portfolio/rocket-g01-design.jpg",
+      "assets/img/portfolio/rocket-g01-payload1.jpg",
+      "assets/img/portfolio/rocket-g01-payload2.jpg",
+      "assets/img/portfolio/rocket-g01-gui.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Telemetry",
+      "Sensors",
+      "Testing"
+    ],
+    "summary": "A meteorology payload for the 2010 national rocket competition.",
+    "overview": "Our team developed a meteorology payload with onboard sensors, actuators, and a ground-station monitoring interface. The project brought hardware integration, launch preparation, and flight-data analysis into one competition system.",
+    "contributions": [
+      "Integrated onboard measurements and live telemetry to the ground station.",
+      "Carried out vibration, acceleration, and homing-related tests.",
+      "The team won first place at the Indonesian National Rocket Competition, KORINDO 2010."
+    ]
+  },
+  {
+    "slug": "flappybird",
+    "file": "portfolio-details-flappybird.html",
+    "title": "Wind-powered kinetic bird",
+    "date": "2022",
+    "context": "Course Project",
+    "funding": "",
+    "cover": "assets/img/portfolio/flappybird-origin.jpg",
+    "images": [
+      "assets/img/portfolio/flappybird-origin.jpg",
+      "assets/img/portfolio/flappybird-mechanism.jpg",
+      "assets/img/portfolio/flappybird-wings.jpg",
+      "assets/img/portfolio/flappybird-body.jpg",
+      "assets/img/portfolio/flappybird-sequence.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Mechanical design",
+      "Prototyping",
+      "Kinetic sculpture"
+    ],
+    "summary": "A wind-driven mechanism that turns rotation into flapping movement.",
+    "overview": "I developed a mechanical bird prototype powered by the wind. A propeller drives the gear mechanism to move the wings, while the body rotates to face the wind.",
+    "contributions": [
+      "Designed the relationship between propeller, gears, and flapping wings.",
+      "Developed the body, wing, and tail components.",
+      "Assembled a prototype combining mechanical function with an expressive physical form."
+    ]
+  },
+  {
+    "slug": "manipulator",
+    "file": "portfolio-details-manipulator.html",
+    "title": "Four-axis robotic arm",
+    "date": "2010?2011",
+    "context": "Course Project",
+    "funding": "",
+    "cover": "assets/img/portfolio/manipulator-grasping1.jpg",
+    "images": [
+      "assets/img/portfolio/manipulator-grasping1.jpg",
+      "assets/img/portfolio/manipulator-grasping-sequence.jpg"
+    ],
+    "category": "Robotics",
+    "tags": [
+      "Kinematics",
+      "Machining",
+      "Robot control"
+    ],
+    "summary": "Designing and building a pick-and-place arm with conventional tools.",
+    "overview": "Our team designed and manufactured a four-degree-of-freedom robotic arm for grasping and moving objects. With no CNC machine available, we fabricated components using lathes, drills, and mills.",
+    "contributions": [
+      "Developed the mechanical structure around kinematics and actuation requirements.",
+      "Manufactured and assembled parts using conventional workshop equipment.",
+      "Demonstrated grasping and object transfer with items such as a bottle and tennis ball."
+    ]
+  },
+  {
+    "slug": "bikelift",
+    "file": "portfolio-details-bikelift.html",
+    "title": "Hydraulic motorcycle lift",
+    "date": "2010",
+    "context": "Course Project",
+    "funding": "",
+    "cover": "assets/img/portfolio/bikelift-design1.jpg",
+    "images": [
+      "assets/img/portfolio/bikelift-design1.jpg",
+      "assets/img/portfolio/bikelift-design2.jpg",
+      "assets/img/portfolio/bikelift-design-bom1.jpg",
+      "assets/img/portfolio/bikelift-design-bom2.jpg",
+      "assets/img/portfolio/bikelift-design-bom3.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Hydraulics",
+      "CAD",
+      "Fabrication"
+    ],
+    "summary": "A workshop lift designed for easier motorcycle maintenance.",
+    "overview": "For a course project, I designed and manufactured a hydraulic bike lift using steel hollow sections and bars. The work combined structural design with hands-on welding, drilling, and assembly.",
+    "contributions": [
+      "Designed the lifting mechanism and structural components.",
+      "Prepared engineering drawings and bills of materials.",
+      "Fabricated and assembled the lift for maintenance access."
+    ]
+  },
+  {
+    "slug": "cigarmachine",
+    "file": "portfolio-details-cigarmachine.html",
+    "title": "Industrial slitting machine",
+    "date": "2011",
+    "context": "Study Case",
+    "funding": "",
+    "cover": "assets/img/portfolio/cigarmachine-slitting-design1.jpg",
+    "images": [
+      "assets/img/portfolio/cigarmachine-slitting-design1.jpg",
+      "assets/img/portfolio/cigarmachine-cigar-counter.jpg",
+      "assets/img/portfolio/cigarmachine-cigar-ejector.jpg",
+      "assets/img/portfolio/cigarmachine-slitting-design2.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Machine design",
+      "CAD",
+      "Manufacturing"
+    ],
+    "summary": "A production machine designed to recover material from rejected products.",
+    "overview": "During my internship at PT. Djaja Sakti Sari, I worked with engineers and technicians on a slitting machine for recovering tobacco from rejected products. The design combined a three-phase AC motor with vibration-based separation.",
+    "contributions": [
+      "Contributed to machine design, fabrication, and testing.",
+      "Worked on mechanisms for slitting and material separation.",
+      "Gained practical experience with production equipment and maintenance."
+    ]
+  },
+  {
+    "slug": "creative-design",
+    "file": "portfolio-details-creative-design.html",
+    "title": "Creative design explorations",
+    "date": "2008, 2011",
+    "context": "DIY Project",
+    "funding": "",
+    "cover": "assets/img/portfolio/creative-design-pipespeaker.jpg",
+    "images": [
+      "assets/img/portfolio/creative-design-pipespeaker.jpg",
+      "assets/img/portfolio/creative-design-eidcard.jpg"
+    ],
+    "category": "Engineering & design",
+    "tags": [
+      "Product concepts",
+      "3D design",
+      "Graphic design"
+    ],
+    "summary": "Personal experiments in physical form and visual communication.",
+    "overview": "A small collection of personal design work, including a pipe-inspired speaker concept and an Eid greeting card. These projects reflect the visual and hands-on design interests that sit alongside my engineering work.",
+    "contributions": [
+      "Explored unconventional forms for a speaker concept.",
+      "Created a graphic composition for an Eid greeting card."
+    ]
+  }
+]
