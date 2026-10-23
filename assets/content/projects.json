@@ -3,7 +3,7 @@
     "slug": "telepresence-robot",
     "file": "portfolio-details-telepresence-robot.html",
     "title": "Immersive robotic telepresence",
-    "date": "2021?2022",
+    "date": "2021–2022",
     "context": "Research",
     "funding": "UniOGS Infotech",
     "cover": "assets/img/portfolio/telepresence-robot-1.jpg",
@@ -25,7 +25,7 @@
     "summary": "Connecting remote spaces through robotics and immersive video.",
     "overview": "I helped build a telepresence system that lets people experience a remote location through a mobile robot and a VR headset. Working with software, hardware, and design colleagues, I brought a simulated research setup into a physical robot study. The study compared unwound camera rotations with conventional coupled rotations to investigate user comfort.",
     "contributions": [
-      "Integrated 360? camera footage with robot orientation in Unity and ROS 2.",
+      "Integrated 360° camera footage with robot orientation in Unity and ROS 2.",
       "Worked on video synchronization, communication latency, and image vibration.",
       "Deployed the robot, mapped the environment, and supported user studies."
     ]
@@ -34,7 +34,7 @@
     "slug": "xr-cinematech",
     "file": "portfolio-details-xr-cinematech.html",
     "title": "XR cinema technology",
-    "date": "2019?2023",
+    "date": "2019–2023",
     "context": "Research",
     "funding": "6G Flagship (2019) & UniOGS Infotech",
     "cover": "assets/img/portfolio/xr-cinematech.jpg",
@@ -51,13 +51,13 @@
       "Unity",
       "C#",
       "Shaders",
-      "360? video"
+      "360° video"
     ],
     "summary": "High-resolution immersive rendering across VR and XR headsets.",
     "overview": "I developed rendering software for immersive images and video, then extended it across multiple VR and XR headsets. The work combined custom mesh generation, projection mapping, and headset integration to support research in telepresence and perception.",
     "contributions": [
       "Developed mesh generation and projection mapping for seamless panoramic rendering.",
-      "Rendered 360? images up to 16K resolution and video up to 8K.",
+      "Rendered 360° images up to 16K resolution and video up to 8K.",
       "Integrated Oculus and Varjo headsets, gaze tracking, video passthrough, and live video."
     ]
   },
@@ -65,7 +65,7 @@
     "slug": "3d-scanner",
     "file": "portfolio-details-3d-scanner.html",
     "title": "3D scanning for virtual worlds",
-    "date": "2019?2022",
+    "date": "2019–2022",
     "context": "6G Project",
     "funding": "6G Flagship",
     "cover": "assets/img/portfolio/6g-flagship-3d-scanner.jpg",
@@ -94,7 +94,7 @@
     "slug": "oulucampus-ve",
     "file": "portfolio-details-oulucampus-ve.html",
     "title": "Oulu campus in virtual reality",
-    "date": "2020?2021",
+    "date": "2020–2021",
     "context": "Research",
     "funding": "UniOGS Infotech",
     "cover": "assets/img/portfolio/oulucampus-lounge1.jpg",
@@ -125,7 +125,7 @@
     "slug": "buddy-robot",
     "file": "portfolio-details-buddy-robot.html",
     "title": "Robotic benchmarking of VR headsets",
-    "date": "2019?2020",
+    "date": "2019–2020",
     "context": "Lab Infrastructure",
     "funding": "6G Flagship",
     "cover": "assets/img/portfolio/buddy-demo.jpg",
@@ -153,7 +153,7 @@
     "slug": "oulucampus-telepresence",
     "file": "portfolio-details-oulucampus-telepresence.html",
     "title": "Telepresence robot simulation",
-    "date": "2020?2021",
+    "date": "2020–2021",
     "context": "Research",
     "funding": "UniOGS Infotech",
     "cover": "assets/img/portfolio/simulation-robot-tellus1.jpg",
@@ -212,13 +212,13 @@
       "Evaluated complementary, gradient-descent, and Mahony filtering approaches.",
       "Investigated parallel communication between modules and RS485 communication with the host to address latency."
     ],
-    "date_note": "Date to confirm: source page says 2019?2021, but describes the master?s thesis completed in 2016."
+    "date_note": "Date to confirm: source page says 2019–2021, but describes the master’s thesis completed in 2016."
   },
   {
     "slug": "imusensor",
     "file": "portfolio-details-imusensor.html",
     "title": "IMU orientation estimation",
-    "date": "2015?2016",
+    "date": "2015–2016",
     "context": "Master Thesis",
     "funding": "MRL-Taiwan Company",
     "cover": "assets/img/portfolio/imusensor-cyclic-motion.jpg",
@@ -242,7 +242,7 @@
       "Embedded systems"
     ],
     "summary": "Evaluating filtering methods for wearable orientation tracking.",
-    "overview": "For my master?s research, I investigated orientation estimation in a wearable system with 13 IMU modules. I compared sensor-fusion approaches against a passive manipulator equipped with encoders, then applied the methods to skeletal animation.",
+    "overview": "For my master’s research, I investigated orientation estimation in a wearable system with 13 IMU modules. I compared sensor-fusion approaches against a passive manipulator equipped with encoders, then applied the methods to skeletal animation.",
     "contributions": [
       "Combined digital motion processing with complementary, gradient-descent, and Mahony filters.",
       "Evaluated orientation estimates against encoder reference measurements.",
@@ -253,7 +253,7 @@
     "slug": "imumotion",
     "file": "portfolio-details-imumotion.html",
     "title": "Validating inertial motion tracking",
-    "date": "2015?2016",
+    "date": "2015–2016",
     "context": "Master Thesis",
     "funding": "MRL-Taiwan Company",
     "cover": "assets/img/portfolio/imumotion-encoder.jpg",
@@ -283,7 +283,7 @@
     "slug": "humanoid",
     "file": "portfolio-details-humanoid.html",
     "title": "HuroEvolutionTN humanoid robot",
-    "date": "2014?2015",
+    "date": "2014–2015",
     "context": "Competition",
     "funding": "Taiwan NSC, MoE",
     "cover": "assets/img/portfolio/humanoid-huroevolution.jpg",
@@ -313,7 +313,7 @@
     "slug": "hurovision",
     "file": "portfolio-details-hurovision.html",
     "title": "Vision for humanoid robot soccer",
-    "date": "2014?2015",
+    "date": "2014–2015",
     "context": "Competition",
     "funding": "Taiwan NSC, MoE",
     "cover": "assets/img/portfolio/huro-vision-robot-head.jpg",
@@ -345,7 +345,7 @@
     "slug": "huromech",
     "file": "portfolio-details-huromech.html",
     "title": "Humanoid mechanical design",
-    "date": "2014?2015",
+    "date": "2014–2015",
     "context": "Competition",
     "funding": "Taiwan NSC, MoE",
     "cover": "assets/img/portfolio/huro-mech-standing.jpg",
@@ -373,8 +373,8 @@
   {
     "slug": "videography",
     "file": "portfolio-details-videography.html",
-    "title": "360? video for telepresence",
-    "date": "2019?2022",
+    "title": "360° video for telepresence",
+    "date": "2019–2022",
     "context": "Research",
     "funding": "UniOGS Infotech",
     "cover": "assets/img/portfolio/panoramic-robot-recording.jpg",
@@ -387,12 +387,12 @@
     ],
     "category": "VR & XR",
     "tags": [
-      "360? cameras",
+      "360° cameras",
       "Video production",
       "Immersive media"
     ],
     "summary": "Panoramic footage for robotic and immersive telepresence studies.",
-    "overview": "I captured and produced 360? images and video for research in remote presence. The work included camera setups on mobile robots and immersive meeting scenarios, with attention to stitching quality and the viewing experience in a headset.",
+    "overview": "I captured and produced 360° images and video for research in remote presence. The work included camera setups on mobile robots and immersive meeting scenarios, with attention to stitching quality and the viewing experience in a headset.",
     "contributions": [
       "Worked with different panoramic camera systems and recording configurations.",
       "Produced video sequences for robot telepresence and remote meetings.",
@@ -403,7 +403,7 @@
     "slug": "marvision",
     "file": "portfolio-details-marvision.html",
     "title": "Multi-agent robot soccer vision",
-    "date": "2012?2013",
+    "date": "2012–2013",
     "context": "Bachelor Thesis",
     "funding": "DIKTI-PKMP",
     "cover": "assets/img/portfolio/marvision-twins.jpg",
@@ -424,7 +424,7 @@
       "Robot soccer"
     ],
     "summary": "Coordinating two robots through a shared view of the field.",
-    "overview": "For my bachelor?s project, I developed a vision-based control system for two holonomic soccer robots. An overhead camera detected robots and the ball, while a leader?follower strategy selected actions based on each robot?s distance from the ball.",
+    "overview": "For my bachelor’s project, I developed a vision-based control system for two holonomic soccer robots. An overhead camera detected robots and the ball, while a leader–follower strategy selected actions based on each robot’s distance from the ball.",
     "contributions": [
       "Implemented image segmentation, marker recognition, and ball detection.",
       "Built calibration and tracking interfaces for the vision system.",
@@ -435,7 +435,7 @@
     "slug": "marmech",
     "file": "portfolio-details-marmech.html",
     "title": "Multi-agent robot mechanical design",
-    "date": "2012?2013",
+    "date": "2012–2013",
     "context": "Bachelor Thesis",
     "funding": "DIKTI-PKMP",
     "cover": "assets/img/portfolio/marmech-final-design.jpg",
@@ -466,7 +466,7 @@
     "slug": "marelectronics",
     "file": "portfolio-details-marelectronics.html",
     "title": "Multi-agent robot electronics",
-    "date": "2012?2013",
+    "date": "2012–2013",
     "context": "Bachelor Thesis",
     "funding": "DIKTI-PKMP",
     "cover": "assets/img/portfolio/marelectronics-wiring-design.jpg",
@@ -487,7 +487,7 @@
       "Motor control",
       "Wireless communication"
     ],
-    "summary": "Custom control boards connecting the robot?s power, sensing, and motion.",
+    "summary": "Custom control boards connecting the robot’s power, sensing, and motion.",
     "overview": "I developed three iterations of a control board for the multi-agent robot soccer platform. The electronics brought together motor drivers, power regulation, wireless communication, and debugging connections.",
     "contributions": [
       "Created schematics, board layouts, and component wiring designs.",
@@ -499,7 +499,7 @@
     "slug": "isro",
     "file": "portfolio-details-isro.html",
     "title": "Search and rescue robot",
-    "date": "2011?2012",
+    "date": "2011–2012",
     "context": "Research",
     "funding": "DIPA",
     "cover": "assets/img/portfolio/isro-stepping-stair.jpg",
@@ -527,7 +527,7 @@
     "slug": "mobilerobot",
     "file": "portfolio-details-mobilerobot.html",
     "title": "Networked mobile robot",
-    "date": "2011?2012",
+    "date": "2011–2012",
     "context": "Course Project",
     "funding": "",
     "cover": "assets/img/portfolio/mobilerobot-gui-server.jpg",
@@ -543,10 +543,10 @@
       "Windows sockets",
       "RS232"
     ],
-    "summary": "Remote control and live sensor monitoring through a client?server interface.",
+    "summary": "Remote control and live sensor monitoring through a client’server interface.",
     "overview": "I designed and implemented a monitoring system that connected multiple clients to a mobile robot through a server. Remote users could control the robot and inspect sensor readings through custom interfaces.",
     "contributions": [
-      "Implemented client?server communication with Windows sockets and TCP/IP.",
+      "Implemented client’server communication with Windows sockets and TCP/IP.",
       "Connected the server to the robot using wireless serial communication.",
       "Displayed heading, acceleration, and temperature data in monitoring interfaces."
     ]
@@ -555,7 +555,7 @@
     "slug": "rocket-g02",
     "file": "portfolio-details-rocket-g02.html",
     "title": "EEPISky G-02 rocket payload",
-    "date": "2010?2011",
+    "date": "2010–2011",
     "context": "Competition",
     "funding": "EEPIS",
     "cover": "assets/img/portfolio/rocket-g02-design.jpg",
@@ -585,7 +585,7 @@
     "slug": "rocket-g01",
     "file": "portfolio-details-rocket-g01.html",
     "title": "EEPISky G-01 rocket payload",
-    "date": "2009?2010",
+    "date": "2009–2010",
     "context": "Competition",
     "funding": "EEPIS",
     "cover": "assets/img/portfolio/rocket-g01-launched.jpg",
@@ -645,7 +645,7 @@
     "slug": "manipulator",
     "file": "portfolio-details-manipulator.html",
     "title": "Four-axis robotic arm",
-    "date": "2010?2011",
+    "date": "2010–2011",
     "context": "Course Project",
     "funding": "",
     "cover": "assets/img/portfolio/manipulator-grasping1.jpg",

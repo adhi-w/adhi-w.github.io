@@ -3,6 +3,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
 import json
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 FILES = {p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts}
@@ -72,6 +73,10 @@ for forbidden in ('setInterval','autoplay','setTimeout'):
 for name in pages:
     source=(ROOT/name).read_text(encoding='utf-8')
     if 'assets/vendor/' in source or 'fonts.googleapis.com' in source: errors.append(f'{name}: legacy runtime dependency')
+    if re.search(r'\d{4}\?\d{4}|360\?|\w\?s\b|\w\?\w|\ufffd', source):
+        errors.append(f'{name}: damaged punctuation or replacement character')
+    if re.search(r'[\w.+-]+@[\w.-]+\.[a-zA-Z]{2,}|mailto:', source):
+        errors.append(f'{name}: email address exposed in static HTML')
 if errors:
     raise SystemExit('\n'.join(errors))
 print(f'PASS: {len(pages)} pages; all local links and anchors resolve with exact casing.')

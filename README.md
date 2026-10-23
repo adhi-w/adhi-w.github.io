@@ -66,7 +66,7 @@ Confirm these items during the next content update:
 - HuroCup All Round result: the original homepage and project page disagree (third versus second). That category is omitted pending confirmation.
 - XR cinema spans 2019–2023 when its later integration work is included; virtual campus work uses the 2020–2021 dates from the experience section.
 
-The public phone number, placeholder social links, arbitrary skill percentages, creativity-test score, unrelated renovation entry, and third-party reference contact information have been removed. The existing email is retained as a clear recruiting contact route.
+The public phone number, placeholder social links, arbitrary skill percentages, creativity-test score, unrelated renovation entry, and third-party reference contact information have been removed. The contact address is displayed with [dot] and [at]. The email-app link is assembled only after a visitor clicks it; neither the full address nor a mailto URL is embedded in the static HTML. This deters basic scraping but is not a guarantee against harvesting, and does not remove the address from older Git history or previously collected copies.
 
 ## Performance & accessibility
 

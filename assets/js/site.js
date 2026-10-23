@@ -15,6 +15,14 @@
     }
   });
   document.querySelector('[data-print]')?.addEventListener('click', () => window.print());
+  const emailLink = document.querySelector('[data-email-link]');
+  emailLink?.addEventListener('click', () => {
+    const address = document.querySelector('#email-address').textContent
+      .replace(/\s*\[dot\]\s*/g, '.')
+      .replace(/\s*\[at\]\s*/g, '@')
+      .trim();
+    emailLink.href = 'mailto:' + address;
+  });
   document.querySelectorAll('[data-enhanced]').forEach(element => element.hidden = false);
   const filters = [...document.querySelectorAll('[data-filter]')];
   const cards = [...document.querySelectorAll('[data-project]')];
