@@ -77,7 +77,7 @@ def research():
       ('2025','Gaze-Adaptive Foveation for Remote Rendered VR','Adhi Widagdo, Teemu Kämäräinen, Ahmad Alhilal, Matti Siekkinen & Cheng-Hsin Hsu','33rd ACM International Conference on Multimedia (MM ’25), Dublin, Ireland','10.1145/3746027.3755620'),
       ('2024','Investigating a simple technique to alter viewpoint height in immersive 360° video','Evan G. Center, Adhi Widagdo, Matti Pouke, Markku Suomalainen, Katherine J. Mimnaugh, Abdulsatar Aboud, Timo Ojala & Steven M. LaValle','2024 IEEE Conference on Telepresence, pp. 131–138','10.1109/Telepresence63209.2024.10841573'),
       ('2022','Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots','M. Suomalainen, B. Sakcak, A. Widagdo, J. Kalliokoski, K. J. Mimnaugh, A. P. Chambers, T. Ojala & S. M. LaValle','ACM/IEEE International Conference on Human-Robot Interaction (HRI)',''),
-      ('2017','Limb motion tracking with inertial measurement units','P. A. C. Widagdo, H. H. Lee & C. H. Kuo','IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1551–1556','10.1109/SMC.2017.8122818'),
+      ('2017','Limb motion tracking with inertial measurement units','P. A. C. Widagdo, H. H. Lee & C. H. Kuo','IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1551–1556','10.1109/SMC.2017.8122669'),
       ('2015','Development of a Biped Teen-Size Humanoid Robot for Participating in RoboCup 2015 Competition','I. W. D. Pranata, A. C. Widagdo, A. P. Yudha & C. H. Kuo','CACS International Automatic Control Conference, pp. 232–236','10.1109/CACS.2015.7393872'),
     ]
     rows = ''
