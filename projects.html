@@ -6,23 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projects — Adhi Widagdo</title>
     <meta name="description"
-        content="Explore 25 projects in robotics, VR/XR, wearable sensing, mechanical design, and engineering.">
-    <meta name="theme-color" content="#182e33">
+        content="Explore 28 projects, covering XR streaming, neural video compression, and earlier engineering work.">
+    <meta name="theme-color" content="#0b1220">
     <link rel="canonical" href="https://adhi-w.github.io/projects.html">
-    <link rel="icon" href="assets/img/monogram.svg" type="image/svg+xml">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="16x16 32x32 48x48">
+    <link rel="icon" href="assets/img/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="assets/img/favicon-192.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png" sizes="180x180">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Projects — Adhi Widagdo">
     <meta property="og:description"
-        content="Explore 25 projects in robotics, VR/XR, wearable sensing, mechanical design, and engineering.">
+        content="Explore 28 projects, covering XR streaming, neural video compression, and earlier engineering work.">
     <meta property="og:url" content="https://adhi-w.github.io/projects.html">
-    <meta property="og:image" content="https://adhi-w.github.io/assets/img/portfolio/6g-flagship-3d-scanner.jpg">
-    <meta property="og:image:alt" content="Adhi Widagdo working with a 3D scanning setup">
+    <meta property="og:image"
+        content="https://adhi-w.github.io/assets/img/portfolio/gaze-adaptive-streaming-concept.png">
+    <meta property="og:image:alt" content="Gaze-adaptive VR streaming: rendered, foveated, and reconstructed frames">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="stylesheet" href="assets/css/site.css">
     <script src="assets/js/site.js" defer></script>
 </head>
 
-<body><a class="skip" href="#main">Skip to content</a>
+<body>
+    <div class="ambient" aria-hidden="true"><span></span><span></span><i class="meteor"></i><i class="meteor"></i><i
+            class="meteor"></i><i class="meteor"></i><i class="meteor"></i><i class="meteor"></i><i
+            class="meteor"></i><i class="meteor"></i><i class="meteor"></i><i class="meteor"></i><i
+            class="meteor"></i><i class="meteor"></i></div><a class="skip" href="#main">Skip to content</a>
     <header class="site-header">
         <div class="wrap header-inner"><a class="brand" href="index.html" aria-label="Adhi Widagdo, overview"><span
                     class="brand-mark" aria-hidden="true">AW</span>Adhi Widagdo.</a><button class="menu-toggle"
@@ -35,22 +43,62 @@
     <main id="main">
         <div class="wrap">
             <div class="page-intro"><span class="eyebrow">Project portfolio</span>
-                <h1>Ideas, built and tested.</h1>
-                <p>A collection of research, engineering, and design work. Explore the systems, the process, and the
-                    details behind each project.</p>
+                <h1>Research that runs<br>on real systems.</h1>
+                <p>My current work connects gaze-adaptive VR streaming, latency optimization, and neural video
+                    compression. Explore the published research and ongoing experiments, alongside earlier work in
+                    robotics and engineering.</p>
             </div>
             <div class="toolbar" data-enhanced hidden>
                 <div class="filters" role="group" aria-label="Filter projects"><button class="filter" type="button"
                         data-filter="all" aria-pressed="true">All work</button><button class="filter" type="button"
-                        data-filter="Robotics" aria-pressed="false">Robotics</button><button class="filter"
-                        type="button" data-filter="VR &amp; XR" aria-pressed="false">VR & XR</button><button
+                        data-filter="VR &amp; XR" aria-pressed="false">VR & XR</button><button class="filter"
+                        type="button" data-filter="Robotics" aria-pressed="false">Earlier robotics</button><button
                         class="filter" type="button" data-filter="Engineering &amp; design"
                         aria-pressed="false">Engineering & design</button></div><label class="search"><span
                         class="sr-only">Search projects by title, skill, or topic</span><input id="project-search"
                         type="search" placeholder="Search projects or skills…"></label>
             </div>
-            <p class="result-count" id="project-count" role="status" aria-live="polite">25 projects</p>
+            <p class="result-count" id="project-count" role="status" aria-live="polite">28 projects</p>
             <div class="project-grid">
+                <article class="project-card" data-project data-category="VR &amp; XR"
+                    data-search="latency-driven foveation vr &amp; xr predicting where a viewer will look when a streamed vr frame reaches the headset. c++ hlsl vulkan openxr gaze prediction python quality of experience">
+                    <a href="portfolio-details-latency-driven-foveation.html">
+                        <div class="project-cover"><img src="assets/img/optimized/ldo-framework-card.webp"
+                                srcset="assets/img/optimized/ldo-framework-card.webp 640w, assets/img/optimized/ldo-framework-full.webp 1400w"
+                                sizes="(max-width: 420px) 92vw, (max-width: 760px) 45vw, 370px" width="640" height="429"
+                                alt="Latency-driven foveation — project photograph or illustration" loading="lazy"
+                                decoding="async"></div>
+                        <div class="meta"><span>VR &amp; XR</span><span>2024–present</span></div>
+                        <h3>Latency-driven foveation<span aria-hidden="true">↗</span></h3>
+                        <p>Predicting where a viewer will look when a streamed VR frame reaches the headset.</p>
+                    </a></article>
+                <article class="project-card" data-project data-category="VR &amp; XR"
+                    data-search="gaze-adaptive vr streaming vr &amp; xr preserving visual detail where people look while reducing the pixels sent to a vr headset. c++ hlsl vulkan alvr steamvr h.265 eye tracking">
+                    <a href="portfolio-details-gaze-adaptive-foveation.html">
+                        <div class="project-cover"><img
+                                src="assets/img/optimized/gaze-adaptive-streaming-concept-card.webp"
+                                srcset="assets/img/optimized/gaze-adaptive-streaming-concept-card.webp 640w, assets/img/optimized/gaze-adaptive-streaming-concept-full.webp 1400w"
+                                sizes="(max-width: 420px) 92vw, (max-width: 760px) 45vw, 370px" width="640" height="360"
+                                alt="Gaze-adaptive VR streaming — project photograph or illustration" loading="lazy"
+                                decoding="async"></div>
+                        <div class="meta"><span>VR &amp; XR</span><span>2024–present</span></div>
+                        <h3>Gaze-adaptive VR streaming<span aria-hidden="true">↗</span></h3>
+                        <p>Preserving visual detail where people look while reducing the pixels sent to a VR headset.
+                        </p>
+                    </a></article>
+                <article class="project-card" data-project data-category="VR &amp; XR"
+                    data-search="foveated neural video compression vr &amp; xr exploring how gaze-adaptive sampling and learned video codecs can work together for streamed vr. neural video compression pytorch python c++ glsl cuda perceptual evaluation">
+                    <a href="portfolio-details-foveated-neural-video.html">
+                        <div class="project-cover"><img src="assets/img/optimized/neural-codec-foveated-card.webp"
+                                srcset="assets/img/optimized/neural-codec-foveated-card.webp 640w, assets/img/optimized/neural-codec-foveated-full.webp 1400w"
+                                sizes="(max-width: 420px) 92vw, (max-width: 760px) 45vw, 370px" width="640" height="360"
+                                alt="Foveated neural video compression — project photograph or illustration"
+                                loading="lazy" decoding="async"></div>
+                        <div class="meta"><span>VR &amp; XR</span><span>Ongoing</span></div>
+                        <h3>Foveated neural video compression<span aria-hidden="true">↗</span></h3>
+                        <p>Exploring how gaze-adaptive sampling and learned video codecs can work together for streamed
+                            VR.</p>
+                    </a></article>
                 <article class="project-card" data-project data-category="Robotics"
                     data-search="immersive robotic telepresence robotics connecting remote spaces through robotics and immersive video. unity c# ros 2 user studies">
                     <a href="portfolio-details-telepresence-robot.html">
@@ -361,13 +409,15 @@
     <section class="wrap closing">
         <div>
             <h2>Have a role in mind?</h2>
-            <p>Let’s talk about robotics, immersive technology, and the work ahead.</p>
+            <p>Let’s talk about XR, video compression, and graphics systems.</p>
         </div><a class="button" href="contact.html">Get in touch <span aria-hidden="true">↗</span></a>
     </section>
     <footer class="site-footer">
-        <div class="wrap footer-inner"><span>© Adhi Widagdo · Robotics &amp; immersive technology</span>
+        <div class="wrap footer-inner"><span>© Adhi Widagdo · XR &amp; video systems research</span>
             <div><a href="cv.html">Curriculum vitae</a><a href="https://github.com/adhi-w">GitHub ↗</a><a
-                    href="contact.html">Contact</a></div>
+                    href="https://www.linkedin.com/in/adhi-w/">LinkedIn ↗</a><a href="contact.html">Contact</a><button
+                    type="button" class="motion-toggle" data-motion-toggle data-enhanced hidden
+                    aria-pressed="false">Background motion</button></div>
         </div>
     </footer>
 </body>

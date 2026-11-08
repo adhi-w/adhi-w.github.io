@@ -1,6 +1,29 @@
 (() => {
   'use strict';
   document.documentElement.classList.add('js');
+  const motionButton = document.querySelector('[data-motion-toggle]');
+  const reducedMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)');
+  let motionEnabled = !reducedMotion?.matches;
+  try {
+    if (localStorage.getItem('background-motion') === 'paused') motionEnabled = false;
+  } catch (_) { /* Optional preference storage may be unavailable. */ }
+  const updateMotion = () => {
+    document.documentElement.classList.toggle('motion-enabled', motionEnabled);
+    if (motionButton) {
+      motionButton.disabled = Boolean(reducedMotion?.matches);
+      motionButton.textContent = reducedMotion?.matches ? 'Reduced motion enabled' : (motionEnabled ? 'Pause background motion' : 'Enable background motion');
+      motionButton.setAttribute('aria-pressed', String(motionEnabled));
+    }
+  };
+  motionButton?.addEventListener('click', () => {
+    motionEnabled = !motionEnabled;
+    updateMotion();
+    try { localStorage.setItem('background-motion', motionEnabled ? 'enabled' : 'paused'); } catch (_) {}
+  });
+  reducedMotion?.addEventListener?.('change', event => {
+    if (event.matches) { motionEnabled = false; updateMotion(); }
+  });
+  updateMotion();
   const menu = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#site-nav');
   menu?.addEventListener('click', () => {

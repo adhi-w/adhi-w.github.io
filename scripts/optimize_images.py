@@ -7,7 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'assets/img/optimized'
 OUT.mkdir(parents=True, exist_ok=True)
 paths = sorted((ROOT / 'assets/img/portfolio').iterdir())
-paths += [ROOT / 'assets/img/profile-img.jpg']
+paths += [ROOT / 'assets/img/ProfilePicture.jpg']
 manifest = {}
 for path in paths:
     if path.suffix.lower() not in ('.jpg', '.jpeg', '.png'):

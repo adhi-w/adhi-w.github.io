@@ -407,6 +407,57 @@
       "height": 900
     }
   },
+  "assets/img/portfolio/gaze-adaptive-methods-and-pipeline.png": {
+    "thumb": {
+      "src": "assets/img/optimized/gaze-adaptive-methods-and-pipeline-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/gaze-adaptive-methods-and-pipeline-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/gaze-adaptive-methods-and-pipeline-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
+  "assets/img/portfolio/gaze-adaptive-streaming-concept.png": {
+    "thumb": {
+      "src": "assets/img/optimized/gaze-adaptive-streaming-concept-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/gaze-adaptive-streaming-concept-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/gaze-adaptive-streaming-concept-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
+  "assets/img/portfolio/gaze-adaptive-study-results.png": {
+    "thumb": {
+      "src": "assets/img/optimized/gaze-adaptive-study-results-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/gaze-adaptive-study-results-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/gaze-adaptive-study-results-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
   "assets/img/portfolio/humanoid-huroevolution.jpg": {
     "thumb": {
       "src": "assets/img/optimized/humanoid-huroevolution-thumb.webp",
@@ -1102,6 +1153,91 @@
       "src": "assets/img/optimized/isro-stepping-stair-full.webp",
       "width": 800,
       "height": 434
+    }
+  },
+  "assets/img/portfolio/ldo-framework.png": {
+    "thumb": {
+      "src": "assets/img/optimized/ldo-framework-thumb.webp",
+      "width": 144,
+      "height": 97
+    },
+    "card": {
+      "src": "assets/img/optimized/ldo-framework-card.webp",
+      "width": 640,
+      "height": 429
+    },
+    "full": {
+      "src": "assets/img/optimized/ldo-framework-full.webp",
+      "width": 1400,
+      "height": 939
+    }
+  },
+  "assets/img/portfolio/ldo-objective-evaluation.png": {
+    "thumb": {
+      "src": "assets/img/optimized/ldo-objective-evaluation-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/ldo-objective-evaluation-card.webp",
+      "width": 640,
+      "height": 425
+    },
+    "full": {
+      "src": "assets/img/optimized/ldo-objective-evaluation-full.webp",
+      "width": 1400,
+      "height": 930
+    }
+  },
+  "assets/img/portfolio/ldo-rendering-pipeline.png": {
+    "thumb": {
+      "src": "assets/img/optimized/ldo-rendering-pipeline-thumb.webp",
+      "width": 144,
+      "height": 96
+    },
+    "card": {
+      "src": "assets/img/optimized/ldo-rendering-pipeline-card.webp",
+      "width": 640,
+      "height": 428
+    },
+    "full": {
+      "src": "assets/img/optimized/ldo-rendering-pipeline-full.webp",
+      "width": 1400,
+      "height": 937
+    }
+  },
+  "assets/img/portfolio/ldo-research-poster.png": {
+    "thumb": {
+      "src": "assets/img/optimized/ldo-research-poster-thumb.webp",
+      "width": 102,
+      "height": 144
+    },
+    "card": {
+      "src": "assets/img/optimized/ldo-research-poster-card.webp",
+      "width": 453,
+      "height": 640
+    },
+    "full": {
+      "src": "assets/img/optimized/ldo-research-poster-full.webp",
+      "width": 990,
+      "height": 1400
+    }
+  },
+  "assets/img/portfolio/ldo-user-study.png": {
+    "thumb": {
+      "src": "assets/img/optimized/ldo-user-study-thumb.webp",
+      "width": 144,
+      "height": 95
+    },
+    "card": {
+      "src": "assets/img/optimized/ldo-user-study-card.webp",
+      "width": 640,
+      "height": 424
+    },
+    "full": {
+      "src": "assets/img/optimized/ldo-user-study-full.webp",
+      "width": 1400,
+      "height": 928
     }
   },
   "assets/img/portfolio/manipulator-grasping-sequence.jpg": {
@@ -2447,21 +2583,72 @@
       "height": 727
     }
   },
-  "assets/img/profile-img.jpg": {
+  "assets/img/portfolio/neural-codec-source.png": {
     "thumb": {
-      "src": "assets/img/optimized/profile-img-thumb.webp",
-      "width": 107,
+      "src": "assets/img/optimized/neural-codec-source-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/neural-codec-source-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/neural-codec-source-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
+  "assets/img/portfolio/neural-codec-foveated.png": {
+    "thumb": {
+      "src": "assets/img/optimized/neural-codec-foveated-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/neural-codec-foveated-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/neural-codec-foveated-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
+  "assets/img/portfolio/neural-codec-reconstructed.png": {
+    "thumb": {
+      "src": "assets/img/optimized/neural-codec-reconstructed-thumb.webp",
+      "width": 144,
+      "height": 81
+    },
+    "card": {
+      "src": "assets/img/optimized/neural-codec-reconstructed-card.webp",
+      "width": 640,
+      "height": 360
+    },
+    "full": {
+      "src": "assets/img/optimized/neural-codec-reconstructed-full.webp",
+      "width": 1400,
+      "height": 788
+    }
+  },
+  "assets/img/ProfilePicture.jpg": {
+    "thumb": {
+      "src": "assets/img/optimized/profilepicture-thumb.webp",
+      "width": 96,
       "height": 144
     },
     "card": {
-      "src": "assets/img/optimized/profile-img-card.webp",
-      "width": 475,
+      "src": "assets/img/optimized/profilepicture-card.webp",
+      "width": 427,
       "height": 640
     },
     "full": {
-      "src": "assets/img/optimized/profile-img-full.webp",
-      "width": 575,
-      "height": 775
+      "src": "assets/img/optimized/profilepicture-full.webp",
+      "width": 933,
+      "height": 1400
     }
   }
 }

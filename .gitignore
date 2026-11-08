@@ -1,3 +1,42 @@
+# Python caches and local environments
 __pycache__/
-.preview/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local tools, previews, and test output
 node_modules/
+.preview/
+.cache/
+/tmp/
+/output/
+/coverage/
+/test-results/
+/playwright-report/
+*.log
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and private working notes
+.env
+.env.*
+!.env.example
+/.private/
+/private-notes/
+/docs/content-sources.md
+/docs/linkedin-update.txt
+/docs/earlier-publications.txt
+
+# Keep root HTML, optimized images, icons, and PDF downloads tracked:
+# GitHub Pages serves these files directly without a build step.

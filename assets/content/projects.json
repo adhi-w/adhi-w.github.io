@@ -1,5 +1,163 @@
 [
   {
+    "slug": "latency-driven-foveation",
+    "file": "portfolio-details-latency-driven-foveation.html",
+    "title": "Latency-driven foveation",
+    "date": "2024–present",
+    "date_label": "Research programme",
+    "context": "Doctoral research · ACM Multimedia 2026",
+    "funding": "Research Council of Finland · NSTC Taiwan",
+    "cover": "assets/img/portfolio/ldo-framework.png",
+    "images": [
+      "assets/img/portfolio/ldo-framework.png",
+      "assets/img/portfolio/ldo-rendering-pipeline.png",
+      "assets/img/portfolio/ldo-objective-evaluation.png",
+      "assets/img/portfolio/ldo-user-study.png",
+      "assets/img/portfolio/ldo-research-poster.png"
+    ],
+    "image_captions": {
+      "assets/img/portfolio/ldo-framework.png": "LDO combines gaze prediction, stabilization, and adaptive foveal sizing to keep detail aligned with the viewer’s gaze.",
+      "assets/img/portfolio/ldo-rendering-pipeline.png": "The ALVR pipeline: SteamVR rendering, latency-driven foveation, H.265 streaming, and headset reconstruction.",
+      "assets/img/portfolio/ldo-objective-evaluation.png": "Poster summary of objective evaluation across six VR titles and three added-latency conditions.",
+      "assets/img/portfolio/ldo-user-study.png": "Thirty-participant study: visual and overall quality improved significantly over EyeNexus under the tested conditions.",
+      "assets/img/portfolio/ldo-research-poster.png": "ACM Multimedia 2026 poster, covering LDO and its foundations in the 2025 gaze-adaptive foveation work."
+    },
+    "category": "VR & XR",
+    "featured": true,
+    "tags": [
+      "C++",
+      "HLSL",
+      "Vulkan",
+      "OpenXR",
+      "Gaze prediction",
+      "Python",
+      "Quality of experience"
+    ],
+    "summary": "Predicting where a viewer will look when a streamed VR frame reaches the headset.",
+    "overview": "In remote VR, the image arrives after the gaze sample used to prepare it. That delay can leave the sharpest part of the image behind the viewer’s eyes. Building on our gaze-adaptive foveation work, I developed latency-driven optimization with colleagues at the University of Helsinki, Aalto University, and National Tsing Hua University. The framework predicts gaze, stabilizes small movements, and adapts the high-detail region to uncertainty and latency.",
+    "contributions": [
+      "Integrated gaze prediction, hysteresis-based stabilization, and adaptive foveal sizing into the ALVR streaming pipeline.",
+      "Connected per-frame foveation parameters on the server with matching reconstruction parameters on the headset.",
+      "Developed Python analysis and parameter-tuning workflows using synchronized gaze logs, video, and latency measurements.",
+      "Evaluated prediction error and perceptual image quality across six VR titles, alongside a collaborative user study."
+    ],
+    "results": [
+      "Mean gaze-prediction error fell by 24.04%, and 95th-percentile error by 28.17%, versus delayed gaze across the tested games and added-latency conditions.",
+      "The paper reports gains of approximately 1–4 dB in eye-weighted PSNR and 0.2–0.8 in FovVideoVDP over the D-AADT2 baseline.",
+      "In the 30-participant study, visual quality scored 4.33/5 versus 3.82/5 for EyeNexus; overall quality scored 4.35/5 versus 4.07/5. Both differences were statistically significant."
+    ],
+    "evaluation": "Objective experiments added 30, 60, or 90 ms to recorded baseline motion-to-photon latency of 60.9–79.4 ms. The user study used two games on Meta Quest Pro at a target 120–130 ms motion-to-photon latency and 50 Mbps. Immersion and interaction differences were not statistically significant. Prediction is not uniformly beneficial at low latency; results depend on the content, hardware, and configuration.",
+    "collaboration": "First-author paper with Teemu Kämäräinen, Sam Kondori, Yuan-Chun Sun, Matti Siekkinen, and Cheng-Hsin Hsu. ACM Multimedia 2026, Rio de Janeiro; conference scheduled for 10–14 November 2026.",
+    "links": [
+      {
+        "label": "Paper DOI · ACM Multimedia 2026",
+        "url": "https://doi.org/10.1145/3767308.3835889"
+      },
+      {
+        "label": "View research poster (PDF, 1.4 MB)",
+        "url": "assets/documents/ldo-acm-mm2026-poster.pdf"
+      },
+      {
+        "label": "Dyna-ALVR research repository",
+        "url": "https://github.com/adhi-w/Dyna-ALVR"
+      }
+    ]
+  },
+  {
+    "slug": "gaze-adaptive-foveation",
+    "file": "portfolio-details-gaze-adaptive-foveation.html",
+    "title": "Gaze-adaptive VR streaming",
+    "date": "2024–present",
+    "date_label": "Research programme",
+    "context": "Doctoral research · ACM Multimedia 2025",
+    "funding": "Research Council of Finland",
+    "cover": "assets/img/portfolio/gaze-adaptive-streaming-concept.png",
+    "images": [
+      "assets/img/portfolio/gaze-adaptive-streaming-concept.png",
+      "assets/img/portfolio/gaze-adaptive-methods-and-pipeline.png",
+      "assets/img/portfolio/gaze-adaptive-study-results.png"
+    ],
+    "image_captions": {
+      "assets/img/portfolio/gaze-adaptive-streaming-concept.png": "Server-side spatial compression preserves detail near the gaze point; the headset reconstructs the full-resolution image.",
+      "assets/img/portfolio/gaze-adaptive-methods-and-pipeline.png": "D-AADT2, D-AADT3, and D-FRW: three gaze-adaptive spatial compression methods integrated into ALVR.",
+      "assets/img/portfolio/gaze-adaptive-study-results.png": "ACM Multimedia 2025 presentation: objective image-quality results and the 16-participant user study."
+    },
+    "category": "VR & XR",
+    "featured": true,
+    "tags": [
+      "C++",
+      "HLSL",
+      "Vulkan",
+      "ALVR",
+      "SteamVR",
+      "H.265",
+      "Eye tracking"
+    ],
+    "summary": "Preserving visual detail where people look while reducing the pixels sent to a VR headset.",
+    "overview": "I implemented gaze-adaptive spatial compression in ALVR for remotely rendered VR. The server keeps more detail around the viewer’s gaze and compresses the periphery before video encoding. The headset reconstructs the image using matching parameters. This work compares three dynamic methods with their static counterparts and connects graphics implementation with perceptual evaluation.",
+    "contributions": [
+      "Integrated D-AADT2, D-AADT3, and D-FRW into the ALVR research platform alongside static baselines.",
+      "Implemented server-side HLSL foveation and client-side Vulkan shader reconstruction with synchronized gaze updates.",
+      "Connected SteamVR rendering, H.265 encoding and decoding, and eye-tracking input in an end-to-end streaming system.",
+      "Evaluated visual quality using eye-weighted PSNR and FovVideoVDP, and contributed to the collaborative subjective evaluation."
+    ],
+    "results": [
+      "The evaluated system supported native 72 FPS operation with real-time gaze updates.",
+      "Dynamic methods generally improved visual quality over static foveation, with content-dependent exceptions such as centrally focused Beat Saber gameplay.",
+      "A 16-participant study found higher overall and visual quality for dynamic foveation than the static AADT2 baseline."
+    ],
+    "evaluation": "The user study compared four methods in ArtPuzzle VR and Beat Saber using Meta Quest Pro. Frames were rendered at 3600 × 1920, transmitted at 1200 × 640, and reconstructed on the headset at 50 Mbps, with a median baseline latency of 40 ms. Results describe this experimental setup rather than a guarantee for every headset or network.",
+    "collaboration": "First-author paper with Teemu Kämäräinen, Ahmad Alhilal, Matti Siekkinen, and Cheng-Hsin Hsu. Published at ACM Multimedia 2025 in Dublin, Ireland.",
+    "links": [
+      {
+        "label": "Read the paper · ACM Multimedia 2025",
+        "url": "https://doi.org/10.1145/3746027.3755620"
+      },
+      {
+        "label": "Explore the follow-up LDO project",
+        "url": "portfolio-details-latency-driven-foveation.html"
+      },
+      {
+        "label": "Dyna-ALVR research repository",
+        "url": "https://github.com/adhi-w/Dyna-ALVR"
+      }
+    ]
+  },
+  {
+    "slug": "foveated-neural-video",
+    "file": "portfolio-details-foveated-neural-video.html",
+    "title": "Foveated neural video compression",
+    "date": "Ongoing",
+    "date_label": "Status",
+    "context": "Research in progress · Unpublished",
+    "funding": "",
+    "cover": "assets/img/portfolio/neural-codec-foveated.png",
+    "images": [
+      "assets/img/portfolio/neural-codec-source.png",
+      "assets/img/portfolio/neural-codec-foveated.png",
+      "assets/img/portfolio/neural-codec-reconstructed.png"
+    ],
+    "image_captions": {
+      "assets/img/portfolio/neural-codec-source.png": "Example source image from a VR video.",
+      "assets/img/portfolio/neural-codec-foveated.png": "Illustration of gaze-adaptive image processing.",
+      "assets/img/portfolio/neural-codec-reconstructed.png": "Example reconstructed image from an offline experiment."
+    },
+    "category": "VR & XR",
+    "featured": true,
+    "tags": [
+      "Neural video compression",
+      "PyTorch",
+      "Python",
+      "C++",
+      "GLSL",
+      "CUDA",
+      "Perceptual evaluation"
+    ],
+    "summary": "Exploring how gaze-adaptive sampling and learned video codecs can work together for streamed VR.",
+    "overview": "My ongoing research explores foveated neural video compression for VR, with an interest in visual quality and efficient streaming.",
+    "project_notes": "Research in progress; no paper published yet. Current evidence comes from offline GPU experiments on sampled VR video."
+  },
+  {
     "slug": "telepresence-robot",
     "file": "portfolio-details-telepresence-robot.html",
     "title": "Immersive robotic telepresence",
@@ -307,6 +465,12 @@
       "Contributed to the integration of robot hardware, perception, and control.",
       "Developed behavior and decision-making software for competition tasks.",
       "The team placed first in the RoboCup 2015 Teen-size Technical Challenge and second in Teen-size Soccer."
+    ],
+    "links": [
+      {
+        "label": "RoboCup 2015 team description (PDF)",
+        "url": "https://humanoid.robocup.org/qualification/2015/3937125e08fe53a0344d492b5607099013f237df/HuroEvolution_TN_Humanoid_TeenSize_2015_TDP.pdf"
+      }
     ]
   },
   {
@@ -429,6 +593,16 @@
       "Implemented image segmentation, marker recognition, and ball detection.",
       "Built calibration and tracking interfaces for the vision system.",
       "Coordinated robot movement to find the ball and dribble toward the goal."
+    ],
+    "links": [
+      {
+        "label": "Related 2014 congress paper: Dynamic movement of multi-agent robot soccer based on local visualization",
+        "url": "https://doi.org/10.1109/MECATRONICS.2014.7018614"
+      },
+      {
+        "label": "2013 research poster (in Indonesian)",
+        "url": "assets/img/poster-pkmp.jpg"
+      }
     ]
   },
   {
